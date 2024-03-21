@@ -1,0 +1,15 @@
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\RepasoCondicionales\bin\Debug\net8.0\RepasoCondicionales.exe
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\RepasoCondicionales\bin\Debug\net8.0\RepasoCondicionales.deps.json
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\RepasoCondicionales\bin\Debug\net8.0\RepasoCondicionales.runtimeconfig.json
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\RepasoCondicionales\bin\Debug\net8.0\RepasoCondicionales.dll
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\RepasoCondicionales\bin\Debug\net8.0\RepasoCondicionales.pdb
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\RepasoCondicionales\obj\Debug\net8.0\RepasoCondicionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\RepasoCondicionales\obj\Debug\net8.0\RepasoCondicionales.AssemblyInfoInputs.cache
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\RepasoCondicionales\obj\Debug\net8.0\RepasoCondicionales.AssemblyInfo.cs
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\RepasoCondicionales\obj\Debug\net8.0\RepasoCondicionales.csproj.CoreCompileInputs.cache
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\RepasoCondicionales\obj\Debug\net8.0\RepasoCondicionales.sourcelink.json
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\RepasoCondicionales\obj\Debug\net8.0\RepasoCondicionales.dll
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\RepasoCondicionales\obj\Debug\net8.0\refint\RepasoCondicionales.dll
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\RepasoCondicionales\obj\Debug\net8.0\RepasoCondicionales.pdb
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\RepasoCondicionales\obj\Debug\net8.0\RepasoCondicionales.genruntimeconfig.cache
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\RepasoCondicionales\obj\Debug\net8.0\ref\RepasoCondicionales.dll
