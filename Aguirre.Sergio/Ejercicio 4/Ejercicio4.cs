@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            //  Ingresar 5 números enteros, calcular y mostrar el promedio.
+            //  4. Ingresar 5 números enteros, calcular y mostrar el promedio.
 
             int num1;
             int num2;
