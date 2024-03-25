@@ -25,7 +25,10 @@
 
             precioNeto = cantidad * precioLamparita;
 
-            if (cantidad >= 3 || cantidad <= 6)
+            
+
+
+            if (cantidad >= 3 && cantidad <= 6)
             {
                 Console.WriteLine("USTED OBTIENE UN DESCUENTO!");
             }
@@ -77,7 +80,12 @@
                         precioTotal = precioNeto * descuento;
                     }
                     break;
+                default:
+                    precioTotal = precioNeto;
+                    break;
             }
+
+          
 
             porcentajeDescuento = descuento * 100;
 
