@@ -1,0 +1,15 @@
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Ejercicio 7 (repetitivas)\bin\Debug\net8.0\Ejercicio 7 (repetitivas).exe
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Ejercicio 7 (repetitivas)\bin\Debug\net8.0\Ejercicio 7 (repetitivas).deps.json
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Ejercicio 7 (repetitivas)\bin\Debug\net8.0\Ejercicio 7 (repetitivas).runtimeconfig.json
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Ejercicio 7 (repetitivas)\bin\Debug\net8.0\Ejercicio 7 (repetitivas).dll
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Ejercicio 7 (repetitivas)\bin\Debug\net8.0\Ejercicio 7 (repetitivas).pdb
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Ejercicio 7 (repetitivas)\obj\Debug\net8.0\Ejercicio 7 (repetitivas).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Ejercicio 7 (repetitivas)\obj\Debug\net8.0\Ejercicio 7 (repetitivas).AssemblyInfoInputs.cache
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Ejercicio 7 (repetitivas)\obj\Debug\net8.0\Ejercicio 7 (repetitivas).AssemblyInfo.cs
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Ejercicio 7 (repetitivas)\obj\Debug\net8.0\Ejercicio 7 (repetitivas).csproj.CoreCompileInputs.cache
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Ejercicio 7 (repetitivas)\obj\Debug\net8.0\Ejercicio 7 (repetitivas).sourcelink.json
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Ejercicio 7 (repetitivas)\obj\Debug\net8.0\Ejercicio 7 (repetitivas).dll
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Ejercicio 7 (repetitivas)\obj\Debug\net8.0\refint\Ejercicio 7 (repetitivas).dll
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Ejercicio 7 (repetitivas)\obj\Debug\net8.0\Ejercicio 7 (repetitivas).pdb
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Ejercicio 7 (repetitivas)\obj\Debug\net8.0\Ejercicio 7 (repetitivas).genruntimeconfig.cache
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Ejercicio 7 (repetitivas)\obj\Debug\net8.0\ref\Ejercicio 7 (repetitivas).dll

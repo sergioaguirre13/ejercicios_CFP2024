@@ -1,0 +1,15 @@
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\RepasoBucles\bin\Debug\net8.0\RepasoBucles.exe
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\RepasoBucles\bin\Debug\net8.0\RepasoBucles.deps.json
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\RepasoBucles\bin\Debug\net8.0\RepasoBucles.runtimeconfig.json
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\RepasoBucles\bin\Debug\net8.0\RepasoBucles.dll
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\RepasoBucles\bin\Debug\net8.0\RepasoBucles.pdb
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\RepasoBucles\obj\Debug\net8.0\RepasoBucles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\RepasoBucles\obj\Debug\net8.0\RepasoBucles.AssemblyInfoInputs.cache
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\RepasoBucles\obj\Debug\net8.0\RepasoBucles.AssemblyInfo.cs
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\RepasoBucles\obj\Debug\net8.0\RepasoBucles.csproj.CoreCompileInputs.cache
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\RepasoBucles\obj\Debug\net8.0\RepasoBucles.sourcelink.json
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\RepasoBucles\obj\Debug\net8.0\RepasoBucles.dll
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\RepasoBucles\obj\Debug\net8.0\refint\RepasoBucles.dll
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\RepasoBucles\obj\Debug\net8.0\RepasoBucles.pdb
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\RepasoBucles\obj\Debug\net8.0\RepasoBucles.genruntimeconfig.cache
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\RepasoBucles\obj\Debug\net8.0\ref\RepasoBucles.dll

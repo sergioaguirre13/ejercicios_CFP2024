@@ -27,67 +27,67 @@
 
             
 
-
             if (cantidad >= 3 && cantidad <= 6)
             {
                 Console.WriteLine("USTED OBTIENE UN DESCUENTO!");
-            }
+            
 
-            switch (cantidad)
+                    switch (cantidad)
+                    {
+                        case >= 6:
+                            descuento = 0.5;
+                            precioTotal = precioNeto * descuento;
+                            break;
+
+                        case 5:
+                            if (marca.ToLower() == "argentinaluz")
+                            {
+                                descuento = 0.6;
+                                precioTotal = precioNeto * descuento;
+                            } else
+                            {
+                                descuento = 0.7;
+                                precioTotal = precioNeto * descuento;
+                            }
+                            break;
+                        case 4:
+                            if (marca.ToLower() == "argentinaluz" || marca.ToLower() == "felipelamparas")
+                            {
+                                descuento = 0.75;
+                                precioTotal = precioNeto * descuento;
+                            }
+                            else
+                            {
+                                descuento = 0.8;
+                                precioTotal = precioNeto * descuento;
+                            }
+                            break;
+                        case 3:
+                            if (marca.ToLower() == "argentinaluz")
+                            {
+                                descuento = 0.85;
+                                precioTotal = precioNeto * descuento;
+                            }
+                            else if (marca.ToLower() == "felipelamparas")
+                            {
+                                descuento = 0.9;
+                                precioTotal = precioNeto * descuento;
+                            }
+                            else
+                            {
+                                descuento = 0.95;
+                                precioTotal = precioNeto * descuento;
+                            }
+                            break;                        
+                    }
+            } else
             {
-                case >= 6:
-                    descuento = 0.5;
-                    precioTotal = precioNeto * descuento;
-                    break;
-
-                case 5:
-                    if (marca.ToLower() == "argentinaluz")
-                    {
-                        descuento = 0.4;
-                        precioTotal = precioNeto * descuento;
-                    } else
-                    {
-                        descuento = 0.3;
-                        precioTotal = precioNeto * descuento;
-                    }
-                    break;
-                case 4:
-                    if (marca.ToLower() == "argentinaluz" || marca.ToLower() == "felipelamparas")
-                    {
-                        descuento = 0.25;
-                        precioTotal = precioNeto * descuento;
-                    }
-                    else
-                    {
-                        descuento = 0.2;
-                        precioTotal = precioNeto * descuento;
-                    }
-                    break;
-                case 3:
-                    if (marca.ToLower() == "argentinaluz")
-                    {
-                        descuento = 0.15;
-                        precioTotal = precioNeto * descuento;
-                    }
-                    else if (marca.ToLower() == "felipelamparas")
-                    {
-                        descuento = 0.1;
-                        precioTotal = precioNeto * descuento;
-                    }
-                    else
-                    {
-                        descuento = 0.05;
-                        precioTotal = precioNeto * descuento;
-                    }
-                    break;
-                default:
-                    precioTotal = precioNeto;
-                    break;
+                Console.WriteLine("USTED NO OBTIENE UN DESCUENTO!");
+                precioTotal = precioNeto;
             }
 
-          
 
-            porcentajeDescuento = descuento * 100;
+            porcentajeDescuento = (1 - descuento) * 100;
 
 
             Console.WriteLine("Perfecto, Aqui el registro de su compra!");
