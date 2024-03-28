@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BB4E1C-6686-4D6E-9F07-D96FDA777028}|RepasoBucles\\RepasoBucles.csproj|c:\\users\\sergio\\desktop\\ejercicios_cfp2024\\aguirre.sergio\\repasobucles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BB4E1C-6686-4D6E-9F07-D96FDA777028}|RepasoBucles\\RepasoBucles.csproj|solutionrelative:repasobucles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADE9F05-CD42-4D14-8BD0-94609FBAF88A}|RepasoCondicionales\\RepasoCondicionales.csproj|C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\repasocondicionales\\condicionales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ADE9F05-CD42-4D14-8BD0-94609FBAF88A}|RepasoCondicionales\\RepasoCondicionales.csproj|solutionrelative:repasocondicionales\\condicionales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1F58F4-2D35-4DCE-BC42-5168947A9FEF}|Ejercicio 6\\Ejercicio 6.csproj|C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\ejercicio 6\\ejercicio6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1F58F4-2D35-4DCE-BC42-5168947A9FEF}|Ejercicio 6\\Ejercicio 6.csproj|solutionrelative:ejercicio 6\\ejercicio6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44033BD-928F-4225-9511-0F8E687570FD}|Ejercicio 7 (repetitivas)\\Ejercicio 7 (repetitivas).csproj|C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\ejercicio 7 (repetitivas)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44033BD-928F-4225-9511-0F8E687570FD}|Ejercicio 7 (repetitivas)\\Ejercicio 7 (repetitivas).csproj|solutionrelative:ejercicio 7 (repetitivas)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Condicionales.cs",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\RepasoCondicionales\\Condicionales.cs",
+              "RelativeDocumentMoniker": "RepasoCondicionales\\Condicionales.cs",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\RepasoCondicionales\\Condicionales.cs",
+              "RelativeToolTip": "RepasoCondicionales\\Condicionales.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T13:57:51.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ejercicio6.cs",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\Ejercicio 6\\Ejercicio6.cs",
+              "RelativeDocumentMoniker": "Ejercicio 6\\Ejercicio6.cs",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\Ejercicio 6\\Ejercicio6.cs",
+              "RelativeToolTip": "Ejercicio 6\\Ejercicio6.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAgwHIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T13:57:51.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\RepasoBucles\\Program.cs",
+              "RelativeDocumentMoniker": "RepasoBucles\\Program.cs",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\RepasoBucles\\Program.cs",
+              "RelativeToolTip": "RepasoBucles\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T13:57:52.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\Ejercicio 7 (repetitivas)\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio 7 (repetitivas)\\Program.cs",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\Ejercicio 7 (repetitivas)\\Program.cs",
+              "RelativeToolTip": "Ejercicio 7 (repetitivas)\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T13:57:52.363Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
