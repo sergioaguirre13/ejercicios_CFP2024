@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{54BBDE09-53A2-4468-80F4-B0B9B8E88C3B}|StringsEjercicio1\\StringsEjercicio1.csproj|c:\\users\\sergio\\desktop\\ejercicios_cfp2024\\aguirre.sergio\\stringsejercicio1\\stringsejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54BBDE09-53A2-4468-80F4-B0B9B8E88C3B}|StringsEjercicio1\\StringsEjercicio1.csproj|solutionrelative:stringsejercicio1\\stringsejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6B60418-3CF7-4474-8090-21731206AA85}|StringsEjercicio2\\StringsEjercicio2.csproj|c:\\users\\sergio\\desktop\\ejercicios_cfp2024\\aguirre.sergio\\stringsejercicio2\\stringsejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6B60418-3CF7-4474-8090-21731206AA85}|StringsEjercicio2\\StringsEjercicio2.csproj|solutionrelative:stringsejercicio2\\stringsejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "StringsEjercicio1.cs",
-              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\StringsEjercicio1\\StringsEjercicio1.cs",
-              "RelativeDocumentMoniker": "StringsEjercicio1\\StringsEjercicio1.cs",
-              "ToolTip": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\StringsEjercicio1\\StringsEjercicio1.cs",
-              "RelativeToolTip": "StringsEjercicio1\\StringsEjercicio1.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAuwBEAAAAiAAAA",
+              "Title": "StringsEjercicio2.cs",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\StringsEjercicio2\\StringsEjercicio2.cs",
+              "RelativeDocumentMoniker": "StringsEjercicio2\\StringsEjercicio2.cs",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\StringsEjercicio2\\StringsEjercicio2.cs",
+              "RelativeToolTip": "StringsEjercicio2\\StringsEjercicio2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T14:15:45.03Z",
+              "WhenOpened": "2024-03-28T14:34:37.215Z",
               "EditorCaption": ""
             }
           ]
