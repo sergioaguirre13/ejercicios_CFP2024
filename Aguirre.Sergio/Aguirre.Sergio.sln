@@ -27,7 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio 4 con Loop", "Eje
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringsEjercicio1", "StringsEjercicio1\StringsEjercicio1.csproj", "{54BBDE09-53A2-4468-80F4-B0B9B8E88C3B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringsEjercicio2", "StringsEjercicio2\StringsEjercicio2.csproj", "{C6B60418-3CF7-4474-8090-21731206AA85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringsEjercicio2", "StringsEjercicio2\StringsEjercicio2.csproj", "{C6B60418-3CF7-4474-8090-21731206AA85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringsEjercicio3", "StringsEjercicio3\StringsEjercicio3.csproj", "{71334CE9-DFC5-429B-B983-7D54ECC7470A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{C6B60418-3CF7-4474-8090-21731206AA85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6B60418-3CF7-4474-8090-21731206AA85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6B60418-3CF7-4474-8090-21731206AA85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71334CE9-DFC5-429B-B983-7D54ECC7470A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71334CE9-DFC5-429B-B983-7D54ECC7470A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71334CE9-DFC5-429B-B983-7D54ECC7470A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71334CE9-DFC5-429B-B983-7D54ECC7470A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
