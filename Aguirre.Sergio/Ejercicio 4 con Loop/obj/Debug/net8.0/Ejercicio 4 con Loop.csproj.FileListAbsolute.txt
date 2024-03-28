@@ -1,0 +1,15 @@
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Ejercicio 4 con Loop\bin\Debug\net8.0\Ejercicio 4 con Loop.exe
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Ejercicio 4 con Loop\bin\Debug\net8.0\Ejercicio 4 con Loop.deps.json
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Ejercicio 4 con Loop\bin\Debug\net8.0\Ejercicio 4 con Loop.runtimeconfig.json
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Ejercicio 4 con Loop\bin\Debug\net8.0\Ejercicio 4 con Loop.dll
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Ejercicio 4 con Loop\bin\Debug\net8.0\Ejercicio 4 con Loop.pdb
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Ejercicio 4 con Loop\obj\Debug\net8.0\Ejercicio 4 con Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Ejercicio 4 con Loop\obj\Debug\net8.0\Ejercicio 4 con Loop.AssemblyInfoInputs.cache
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Ejercicio 4 con Loop\obj\Debug\net8.0\Ejercicio 4 con Loop.AssemblyInfo.cs
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Ejercicio 4 con Loop\obj\Debug\net8.0\Ejercicio 4 con Loop.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Ejercicio 4 con Loop\obj\Debug\net8.0\Ejercicio 4 con Loop.sourcelink.json
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Ejercicio 4 con Loop\obj\Debug\net8.0\Ejercicio 4 con Loop.dll
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Ejercicio 4 con Loop\obj\Debug\net8.0\refint\Ejercicio 4 con Loop.dll
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Ejercicio 4 con Loop\obj\Debug\net8.0\Ejercicio 4 con Loop.pdb
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Ejercicio 4 con Loop\obj\Debug\net8.0\Ejercicio 4 con Loop.genruntimeconfig.cache
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Ejercicio 4 con Loop\obj\Debug\net8.0\ref\Ejercicio 4 con Loop.dll
