@@ -1,0 +1,15 @@
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\StringsEjercicio1\bin\Debug\net8.0\StringsEjercicio1.exe
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\StringsEjercicio1\bin\Debug\net8.0\StringsEjercicio1.deps.json
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\StringsEjercicio1\bin\Debug\net8.0\StringsEjercicio1.runtimeconfig.json
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\StringsEjercicio1\bin\Debug\net8.0\StringsEjercicio1.dll
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\StringsEjercicio1\bin\Debug\net8.0\StringsEjercicio1.pdb
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\StringsEjercicio1\obj\Debug\net8.0\StringsEjercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\StringsEjercicio1\obj\Debug\net8.0\StringsEjercicio1.AssemblyInfoInputs.cache
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\StringsEjercicio1\obj\Debug\net8.0\StringsEjercicio1.AssemblyInfo.cs
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\StringsEjercicio1\obj\Debug\net8.0\StringsEjercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\StringsEjercicio1\obj\Debug\net8.0\StringsEjercicio1.sourcelink.json
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\StringsEjercicio1\obj\Debug\net8.0\StringsEjercicio1.dll
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\StringsEjercicio1\obj\Debug\net8.0\refint\StringsEjercicio1.dll
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\StringsEjercicio1\obj\Debug\net8.0\StringsEjercicio1.pdb
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\StringsEjercicio1\obj\Debug\net8.0\StringsEjercicio1.genruntimeconfig.cache
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\StringsEjercicio1\obj\Debug\net8.0\ref\StringsEjercicio1.dll
