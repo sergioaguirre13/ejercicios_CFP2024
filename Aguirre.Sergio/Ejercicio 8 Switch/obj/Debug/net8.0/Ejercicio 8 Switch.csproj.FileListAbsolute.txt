@@ -1,0 +1,15 @@
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Ejercicio 8 Switch\bin\Debug\net8.0\Ejercicio 8 Switch.exe
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Ejercicio 8 Switch\bin\Debug\net8.0\Ejercicio 8 Switch.deps.json
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Ejercicio 8 Switch\bin\Debug\net8.0\Ejercicio 8 Switch.runtimeconfig.json
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Ejercicio 8 Switch\bin\Debug\net8.0\Ejercicio 8 Switch.dll
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Ejercicio 8 Switch\bin\Debug\net8.0\Ejercicio 8 Switch.pdb
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Ejercicio 8 Switch\obj\Debug\net8.0\Ejercicio 8 Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Ejercicio 8 Switch\obj\Debug\net8.0\Ejercicio 8 Switch.AssemblyInfoInputs.cache
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Ejercicio 8 Switch\obj\Debug\net8.0\Ejercicio 8 Switch.AssemblyInfo.cs
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Ejercicio 8 Switch\obj\Debug\net8.0\Ejercicio 8 Switch.csproj.CoreCompileInputs.cache
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Ejercicio 8 Switch\obj\Debug\net8.0\Ejercicio 8 Switch.sourcelink.json
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Ejercicio 8 Switch\obj\Debug\net8.0\Ejercicio 8 Switch.dll
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Ejercicio 8 Switch\obj\Debug\net8.0\refint\Ejercicio 8 Switch.dll
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Ejercicio 8 Switch\obj\Debug\net8.0\Ejercicio 8 Switch.pdb
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Ejercicio 8 Switch\obj\Debug\net8.0\Ejercicio 8 Switch.genruntimeconfig.cache
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Ejercicio 8 Switch\obj\Debug\net8.0\ref\Ejercicio 8 Switch.dll
