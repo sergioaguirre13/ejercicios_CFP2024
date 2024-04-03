@@ -13,3 +13,18 @@ C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\StringsEjercicio2\obj\
 C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\StringsEjercicio2\obj\Debug\net8.0\StringsEjercicio2.pdb
 C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\StringsEjercicio2\obj\Debug\net8.0\StringsEjercicio2.genruntimeconfig.cache
 C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\StringsEjercicio2\obj\Debug\net8.0\ref\StringsEjercicio2.dll
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\StringsEjercicio2\bin\Debug\net8.0\StringsEjercicio2.exe
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\StringsEjercicio2\bin\Debug\net8.0\StringsEjercicio2.deps.json
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\StringsEjercicio2\bin\Debug\net8.0\StringsEjercicio2.runtimeconfig.json
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\StringsEjercicio2\bin\Debug\net8.0\StringsEjercicio2.dll
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\StringsEjercicio2\bin\Debug\net8.0\StringsEjercicio2.pdb
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\StringsEjercicio2\obj\Debug\net8.0\StringsEjercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\StringsEjercicio2\obj\Debug\net8.0\StringsEjercicio2.AssemblyInfoInputs.cache
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\StringsEjercicio2\obj\Debug\net8.0\StringsEjercicio2.AssemblyInfo.cs
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\StringsEjercicio2\obj\Debug\net8.0\StringsEjercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\StringsEjercicio2\obj\Debug\net8.0\StringsEjercicio2.sourcelink.json
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\StringsEjercicio2\obj\Debug\net8.0\StringsEjercicio2.dll
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\StringsEjercicio2\obj\Debug\net8.0\refint\StringsEjercicio2.dll
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\StringsEjercicio2\obj\Debug\net8.0\StringsEjercicio2.pdb
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\StringsEjercicio2\obj\Debug\net8.0\StringsEjercicio2.genruntimeconfig.cache
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\StringsEjercicio2\obj\Debug\net8.0\ref\StringsEjercicio2.dll

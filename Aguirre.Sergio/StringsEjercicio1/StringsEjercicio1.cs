@@ -10,20 +10,29 @@
             string palabra;
             int verificiador = 0;
 
-            Console.WriteLine("Ingrese una palabra para verificar que tenga 5 caracteres");
-            palabra = Console.ReadLine();
-
-            verificiador = palabra.Length;
-
-            if (verificiador >= 5)
+            do
             {
-                Console.WriteLine("Esta palabra tiene 5 o mas caracteres");
-            } else
+
+                Console.WriteLine("Ingrese una palabra para verificar que tenga 5 caracteres");
+                palabra = Console.ReadLine();
+
+                verificiador = palabra.Length;
+
+                if (palabra.Length < 5)
+                {
+                    Console.WriteLine("La palabra es muy corta");
+                }
+
+
+            } while (palabra.Length < 5);
+
+
+            for (int i = 0; i < 3; i++)
             {
-                Console.WriteLine("Esta palabra no cuenta con los suficientes caracteres");
+                Console.WriteLine(palabra[i]);
             }
 
-            Console.WriteLine($"Los primeros 3 caracteres de la palabra {palabra} son: {palabra[0]}{palabra[1]}{palabra[2]}");
+           
         }
     }
 }
