@@ -37,7 +37,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringsEjercicio4", "String
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringsEjercicio5", "StringsEjercicio5\StringsEjercicio5.csproj", "{3F038F50-B796-4A71-820D-ACEAA5AF3C87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio 8 Switch", "Ejercicio 8 Switch\Ejercicio 8 Switch.csproj", "{71A746AE-55BE-49F3-ABB6-14BE53C5C159}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio 8 Switch", "Ejercicio 8 Switch\Ejercicio 8 Switch.csproj", "{71A746AE-55BE-49F3-ABB6-14BE53C5C159}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase funcion - metodo", "Clase funcion - metodo\Clase funcion - metodo.csproj", "{163AD53A-270B-411E-AC2B-AED4A74D9D8B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{71A746AE-55BE-49F3-ABB6-14BE53C5C159}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71A746AE-55BE-49F3-ABB6-14BE53C5C159}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71A746AE-55BE-49F3-ABB6-14BE53C5C159}.Release|Any CPU.Build.0 = Release|Any CPU
+		{163AD53A-270B-411E-AC2B-AED4A74D9D8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{163AD53A-270B-411E-AC2B-AED4A74D9D8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{163AD53A-270B-411E-AC2B-AED4A74D9D8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{163AD53A-270B-411E-AC2B-AED4A74D9D8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

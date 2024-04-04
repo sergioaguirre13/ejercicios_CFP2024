@@ -9,24 +9,48 @@
             //ej: Manzana->M * nz * n *.
 
             string palabra;
-            string palabraModificada = "";
 
-            Console.WriteLine("Ingrese una palabra, por favor");
+            Console.WriteLine("Escriba una palabra: ");
             palabra = Console.ReadLine();
 
-            foreach (char letra in palabra)
+            char[] letras = palabra.ToCharArray();
+
+
+            for (int i = 0; i < letras.Length; i++)
             {
-                if (letra == 'a')
+                if (letras[i] == 'a')
                 {
-                    palabraModificada += '*';
-                } else
-                {
-                    palabraModificada += letra;
+                    letras[i] = '#';
                 }
             }
 
-            Console.WriteLine($"La palabra que elegiste es {palabra}");
-            Console.WriteLine($"La palabra modificada queda asi: {palabraModificada}");
+            foreach (char unaLetra in letras)
+            {
+                Console.Write(unaLetra);
+            }
+
+
+
+            //string palabraModificada = "";
+
+            //Console.WriteLine("Ingrese una palabra, por favor");
+            //palabra = Console.ReadLine();
+
+            //foreach (char letra in palabra)
+            //{
+            //    if (letra == 'a')
+            //    {
+            //        palabraModificada += '*';
+            //    } else
+            //    {
+            //        palabraModificada += letra;
+            //    }
+            //}
+
+            //Console.WriteLine($"La palabra que elegiste es {palabra}");
+            //Console.WriteLine($"La palabra modificada queda asi: {palabraModificada}");
+
+
 
         }
     }
