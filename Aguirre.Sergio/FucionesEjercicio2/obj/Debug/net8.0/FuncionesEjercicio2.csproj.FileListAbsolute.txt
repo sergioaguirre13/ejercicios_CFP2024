@@ -1,0 +1,15 @@
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\FucionesEjercicio2\bin\Debug\net8.0\FuncionesEjercicio2.exe
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\FucionesEjercicio2\bin\Debug\net8.0\FuncionesEjercicio2.deps.json
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\FucionesEjercicio2\bin\Debug\net8.0\FuncionesEjercicio2.runtimeconfig.json
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\FucionesEjercicio2\bin\Debug\net8.0\FuncionesEjercicio2.dll
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\FucionesEjercicio2\bin\Debug\net8.0\FuncionesEjercicio2.pdb
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\FucionesEjercicio2\obj\Debug\net8.0\FuncionesEjercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\FucionesEjercicio2\obj\Debug\net8.0\FuncionesEjercicio2.AssemblyInfoInputs.cache
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\FucionesEjercicio2\obj\Debug\net8.0\FuncionesEjercicio2.AssemblyInfo.cs
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\FucionesEjercicio2\obj\Debug\net8.0\FuncionesEjercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\FucionesEjercicio2\obj\Debug\net8.0\FuncionesEjercicio2.sourcelink.json
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\FucionesEjercicio2\obj\Debug\net8.0\FuncionesEjercicio2.dll
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\FucionesEjercicio2\obj\Debug\net8.0\refint\FuncionesEjercicio2.dll
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\FucionesEjercicio2\obj\Debug\net8.0\FuncionesEjercicio2.pdb
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\FucionesEjercicio2\obj\Debug\net8.0\FuncionesEjercicio2.genruntimeconfig.cache
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\FucionesEjercicio2\obj\Debug\net8.0\ref\FuncionesEjercicio2.dll

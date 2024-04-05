@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8327C6DA-9DBF-4FAB-BC48-7999FFEBAB2E}|FuncionesEjercicio1\\FuncionesEjercicio1.csproj|c:\\users\\sergio\\desktop\\ejercicios_cfp2024\\aguirre.sergio\\funcionesejercicio1\\funcionesej1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8327C6DA-9DBF-4FAB-BC48-7999FFEBAB2E}|FuncionesEjercicio1\\FuncionesEjercicio1.csproj|solutionrelative:funcionesejercicio1\\funcionesej1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC53A880-3068-4D87-81F9-80E6247575EF}|FucionesEjercicio2\\FucionesEjercicio2.csproj|c:\\users\\sergio\\desktop\\ejercicios_cfp2024\\aguirre.sergio\\fucionesejercicio2\\funcionesej2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC53A880-3068-4D87-81F9-80E6247575EF}|FucionesEjercicio2\\FucionesEjercicio2.csproj|solutionrelative:fucionesejercicio2\\funcionesej2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71334CE9-DFC5-429B-B983-7D54ECC7470A}|StringsEjercicio3\\StringsEjercicio3.csproj|c:\\users\\sergio\\desktop\\ejercicios_cfp2024\\aguirre.sergio\\stringsejercicio3\\stringejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71334CE9-DFC5-429B-B983-7D54ECC7470A}|StringsEjercicio3\\StringsEjercicio3.csproj|solutionrelative:stringsejercicio3\\stringejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EC9A5998-2A1E-4256-B72D-58F30303D207}|Ejercicio 4\\Ejercicio 4.csproj|c:\\users\\sergio\\desktop\\ejercicios_cfp2024\\aguirre.sergio\\ejercicio 4\\ejercicio4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9A5998-2A1E-4256-B72D-58F30303D207}|Ejercicio 4\\Ejercicio 4.csproj|solutionrelative:ejercicio 4\\ejercicio4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FuncionesEJ1.cs",
-              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\FuncionesEjercicio1\\FuncionesEJ1.cs",
-              "RelativeDocumentMoniker": "FuncionesEjercicio1\\FuncionesEJ1.cs",
-              "ToolTip": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\FuncionesEjercicio1\\FuncionesEJ1.cs",
-              "RelativeToolTip": "FuncionesEjercicio1\\FuncionesEJ1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
+              "DocumentIndex": 1,
+              "Title": "Ejercicio4.cs",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\Ejercicio 4\\Ejercicio4.cs",
+              "RelativeDocumentMoniker": "Ejercicio 4\\Ejercicio4.cs",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\Ejercicio 4\\Ejercicio4.cs",
+              "RelativeToolTip": "Ejercicio 4\\Ejercicio4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T12:40:04.708Z",
+              "WhenOpened": "2024-04-05T13:38:45.965Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StringEjercicio3.cs",
-              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\StringsEjercicio3\\StringEjercicio3.cs",
-              "RelativeDocumentMoniker": "StringsEjercicio3\\StringEjercicio3.cs",
-              "ToolTip": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\StringsEjercicio3\\StringEjercicio3.cs",
-              "RelativeToolTip": "StringsEjercicio3\\StringEjercicio3.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAdAAAA",
+              "DocumentIndex": 0,
+              "Title": "FuncionesEJ2.cs",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\FucionesEjercicio2\\FuncionesEJ2.cs",
+              "RelativeDocumentMoniker": "FucionesEjercicio2\\FuncionesEJ2.cs",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\FucionesEjercicio2\\FuncionesEJ2.cs",
+              "RelativeToolTip": "FucionesEjercicio2\\FuncionesEJ2.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAwwBcAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T14:52:49.802Z",
+              "WhenOpened": "2024-04-05T13:12:58.647Z",
               "EditorCaption": ""
             }
           ]
