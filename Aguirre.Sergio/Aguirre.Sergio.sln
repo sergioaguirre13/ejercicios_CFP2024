@@ -39,7 +39,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringsEjercicio5", "String
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio 8 Switch", "Ejercicio 8 Switch\Ejercicio 8 Switch.csproj", "{71A746AE-55BE-49F3-ABB6-14BE53C5C159}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase funcion - metodo", "Clase funcion - metodo\Clase funcion - metodo.csproj", "{163AD53A-270B-411E-AC2B-AED4A74D9D8B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase funcion - metodo", "Clase funcion - metodo\Clase funcion - metodo.csproj", "{163AD53A-270B-411E-AC2B-AED4A74D9D8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuncionesEjercicio1", "FuncionesEjercicio1\FuncionesEjercicio1.csproj", "{8327C6DA-9DBF-4FAB-BC48-7999FFEBAB2E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,10 @@ Global
 		{163AD53A-270B-411E-AC2B-AED4A74D9D8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{163AD53A-270B-411E-AC2B-AED4A74D9D8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{163AD53A-270B-411E-AC2B-AED4A74D9D8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8327C6DA-9DBF-4FAB-BC48-7999FFEBAB2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8327C6DA-9DBF-4FAB-BC48-7999FFEBAB2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8327C6DA-9DBF-4FAB-BC48-7999FFEBAB2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8327C6DA-9DBF-4FAB-BC48-7999FFEBAB2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
