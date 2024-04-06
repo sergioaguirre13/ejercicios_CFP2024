@@ -11,7 +11,6 @@ namespace VectoresEjercicio5
 
             string palabra;
             
-
             Console.WriteLine("Ingrese la palabra que quiere pasar a array");
             palabra = Console.ReadLine();
 

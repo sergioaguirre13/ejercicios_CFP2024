@@ -65,7 +65,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VectoresEjercicio4", "Vecto
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Vectores Ejercicios 1 - 7", "Vectores Ejercicios 1 - 7", "{3B89F3EC-AFB6-4BA3-BABA-53E9DBF247CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VectoresEjercicio5", "VectoresEjercicio5\VectoresEjercicio5.csproj", "{D734510B-0528-4FAC-8C10-985B60449EB8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VectoresEjercicio5", "VectoresEjercicio5\VectoresEjercicio5.csproj", "{D734510B-0528-4FAC-8C10-985B60449EB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VectoresEjercicio6", "VectoresEjercicio6\VectoresEjercicio6.csproj", "{2532CEC3-DE27-4E23-BE6A-BE87D891DB11}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -181,6 +183,10 @@ Global
 		{D734510B-0528-4FAC-8C10-985B60449EB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D734510B-0528-4FAC-8C10-985B60449EB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D734510B-0528-4FAC-8C10-985B60449EB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2532CEC3-DE27-4E23-BE6A-BE87D891DB11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2532CEC3-DE27-4E23-BE6A-BE87D891DB11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2532CEC3-DE27-4E23-BE6A-BE87D891DB11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2532CEC3-DE27-4E23-BE6A-BE87D891DB11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -212,6 +218,7 @@ Global
 		{49A5D054-EFEF-4FC6-84D7-5EAE115882CF} = {3B89F3EC-AFB6-4BA3-BABA-53E9DBF247CD}
 		{22A9315C-BC74-47F0-9F14-7CFD6CEA536A} = {3B89F3EC-AFB6-4BA3-BABA-53E9DBF247CD}
 		{2F8F5A16-ADF8-44E4-BAF8-3C37FF186D92} = {3B89F3EC-AFB6-4BA3-BABA-53E9DBF247CD}
+		{D734510B-0528-4FAC-8C10-985B60449EB8} = {3B89F3EC-AFB6-4BA3-BABA-53E9DBF247CD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8EA0F92C-6CBE-4176-8BF2-7816E7536B17}
