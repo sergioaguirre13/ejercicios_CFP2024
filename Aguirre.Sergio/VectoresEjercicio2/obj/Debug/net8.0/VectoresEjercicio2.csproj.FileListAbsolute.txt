@@ -1,0 +1,15 @@
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\VectoresEjercicio2\bin\Debug\net8.0\VectoresEjercicio2.exe
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\VectoresEjercicio2\bin\Debug\net8.0\VectoresEjercicio2.deps.json
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\VectoresEjercicio2\bin\Debug\net8.0\VectoresEjercicio2.runtimeconfig.json
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\VectoresEjercicio2\bin\Debug\net8.0\VectoresEjercicio2.dll
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\VectoresEjercicio2\bin\Debug\net8.0\VectoresEjercicio2.pdb
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\VectoresEjercicio2\obj\Debug\net8.0\VectoresEjercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\VectoresEjercicio2\obj\Debug\net8.0\VectoresEjercicio2.AssemblyInfoInputs.cache
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\VectoresEjercicio2\obj\Debug\net8.0\VectoresEjercicio2.AssemblyInfo.cs
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\VectoresEjercicio2\obj\Debug\net8.0\VectoresEjercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\VectoresEjercicio2\obj\Debug\net8.0\VectoresEjercicio2.sourcelink.json
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\VectoresEjercicio2\obj\Debug\net8.0\VectoresEjercicio2.dll
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\VectoresEjercicio2\obj\Debug\net8.0\refint\VectoresEjercicio2.dll
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\VectoresEjercicio2\obj\Debug\net8.0\VectoresEjercicio2.pdb
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\VectoresEjercicio2\obj\Debug\net8.0\VectoresEjercicio2.genruntimeconfig.cache
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\VectoresEjercicio2\obj\Debug\net8.0\ref\VectoresEjercicio2.dll
