@@ -27,9 +27,9 @@ namespace VectoresEjercicio4
 
             Console.WriteLine(@"¿Que desea hacer ?
             1.Ordenar vector.
-            2.Contar vocales dentro del vector. (Cuantas a, e, i, o y u) //YA ESTA
-            3.Reemplazar consonantes por el carácter ‘*’ y mostrar //YA ESTA
-            4.Salir del programa. ");  //YA ESTA
+            2.Contar vocales dentro del vector. (Cuantas a, e, i, o y u) 
+            3.Reemplazar consonantes por el carácter ‘*’ y mostrar 
+            4.Salir del programa. "); 
             opcion = int.Parse(Console.ReadLine());
 
             switch (opcion)
