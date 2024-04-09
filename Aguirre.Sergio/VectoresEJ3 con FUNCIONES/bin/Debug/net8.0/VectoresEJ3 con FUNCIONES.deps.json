@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "VectoresEJ3 con FUNCIONES/1.0.0": {
+        "runtime": {
+          "VectoresEJ3 con FUNCIONES.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VectoresEJ3 con FUNCIONES/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

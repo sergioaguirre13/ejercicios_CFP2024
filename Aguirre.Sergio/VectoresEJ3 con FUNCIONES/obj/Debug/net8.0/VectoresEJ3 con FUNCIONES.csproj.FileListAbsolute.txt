@@ -1,0 +1,15 @@
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\VectoresEJ3 con FUNCIONES\bin\Debug\net8.0\VectoresEJ3 con FUNCIONES.exe
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\VectoresEJ3 con FUNCIONES\bin\Debug\net8.0\VectoresEJ3 con FUNCIONES.deps.json
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\VectoresEJ3 con FUNCIONES\bin\Debug\net8.0\VectoresEJ3 con FUNCIONES.runtimeconfig.json
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\VectoresEJ3 con FUNCIONES\bin\Debug\net8.0\VectoresEJ3 con FUNCIONES.dll
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\VectoresEJ3 con FUNCIONES\bin\Debug\net8.0\VectoresEJ3 con FUNCIONES.pdb
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\VectoresEJ3 con FUNCIONES\obj\Debug\net8.0\VectoresEJ3 con FUNCIONES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\VectoresEJ3 con FUNCIONES\obj\Debug\net8.0\VectoresEJ3 con FUNCIONES.AssemblyInfoInputs.cache
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\VectoresEJ3 con FUNCIONES\obj\Debug\net8.0\VectoresEJ3 con FUNCIONES.AssemblyInfo.cs
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\VectoresEJ3 con FUNCIONES\obj\Debug\net8.0\VectoresEJ3 con FUNCIONES.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\VectoresEJ3 con FUNCIONES\obj\Debug\net8.0\VectoresEJ3 con FUNCIONES.sourcelink.json
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\VectoresEJ3 con FUNCIONES\obj\Debug\net8.0\VectoresEJ3 con FUNCIONES.dll
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\VectoresEJ3 con FUNCIONES\obj\Debug\net8.0\refint\VectoresEJ3 con FUNCIONES.dll
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\VectoresEJ3 con FUNCIONES\obj\Debug\net8.0\VectoresEJ3 con FUNCIONES.pdb
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\VectoresEJ3 con FUNCIONES\obj\Debug\net8.0\VectoresEJ3 con FUNCIONES.genruntimeconfig.cache
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\VectoresEJ3 con FUNCIONES\obj\Debug\net8.0\ref\VectoresEJ3 con FUNCIONES.dll
