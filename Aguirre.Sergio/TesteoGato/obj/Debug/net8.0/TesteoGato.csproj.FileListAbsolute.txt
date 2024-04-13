@@ -1,0 +1,15 @@
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\TesteoGato\bin\Debug\net8.0\TesteoGato.exe
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\TesteoGato\bin\Debug\net8.0\TesteoGato.deps.json
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\TesteoGato\bin\Debug\net8.0\TesteoGato.runtimeconfig.json
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\TesteoGato\bin\Debug\net8.0\TesteoGato.dll
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\TesteoGato\bin\Debug\net8.0\TesteoGato.pdb
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\TesteoGato\obj\Debug\net8.0\TesteoGato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\TesteoGato\obj\Debug\net8.0\TesteoGato.AssemblyInfoInputs.cache
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\TesteoGato\obj\Debug\net8.0\TesteoGato.AssemblyInfo.cs
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\TesteoGato\obj\Debug\net8.0\TesteoGato.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\TesteoGato\obj\Debug\net8.0\TesteoGato.sourcelink.json
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\TesteoGato\obj\Debug\net8.0\TesteoGato.dll
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\TesteoGato\obj\Debug\net8.0\refint\TesteoGato.dll
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\TesteoGato\obj\Debug\net8.0\TesteoGato.pdb
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\TesteoGato\obj\Debug\net8.0\TesteoGato.genruntimeconfig.cache
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\TesteoGato\obj\Debug\net8.0\ref\TesteoGato.dll

@@ -1,0 +1,15 @@
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Funcion3Practica\bin\Debug\net8.0\Funcion3Practica.exe
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Funcion3Practica\bin\Debug\net8.0\Funcion3Practica.deps.json
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Funcion3Practica\bin\Debug\net8.0\Funcion3Practica.runtimeconfig.json
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Funcion3Practica\bin\Debug\net8.0\Funcion3Practica.dll
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Funcion3Practica\bin\Debug\net8.0\Funcion3Practica.pdb
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Funcion3Practica\obj\Debug\net8.0\Funcion3Practica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Funcion3Practica\obj\Debug\net8.0\Funcion3Practica.AssemblyInfoInputs.cache
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Funcion3Practica\obj\Debug\net8.0\Funcion3Practica.AssemblyInfo.cs
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Funcion3Practica\obj\Debug\net8.0\Funcion3Practica.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Funcion3Practica\obj\Debug\net8.0\Funcion3Practica.sourcelink.json
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Funcion3Practica\obj\Debug\net8.0\Funcion3Practica.dll
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Funcion3Practica\obj\Debug\net8.0\refint\Funcion3Practica.dll
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Funcion3Practica\obj\Debug\net8.0\Funcion3Practica.pdb
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Funcion3Practica\obj\Debug\net8.0\Funcion3Practica.genruntimeconfig.cache
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Funcion3Practica\obj\Debug\net8.0\ref\Funcion3Practica.dll

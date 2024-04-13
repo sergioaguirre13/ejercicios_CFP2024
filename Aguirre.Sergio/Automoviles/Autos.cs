@@ -3,8 +3,8 @@
     public class Autos
     {
 
-        // dos tipos de clases Static --> no requiere una instancia.
-        // DE INSTANCIA
+        // dos tipos de clases --> Static --> no requiere una instancia.
+        //                     --> DE INSTANCIA
 
         // atributos
         //marca, modelo, motor, puertas, rodado, color, transmision, patente
@@ -27,8 +27,6 @@
         //comportamientos --> metodos
         public string TocarBocina()
         {
-
-
             return "tuuuuuum";
         }
 

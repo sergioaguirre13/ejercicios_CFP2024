@@ -13,3 +13,7 @@ C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\FucionesEjercicio2\obj
 C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\FucionesEjercicio2\obj\Debug\net8.0\FuncionesEjercicio2.pdb
 C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\FucionesEjercicio2\obj\Debug\net8.0\FuncionesEjercicio2.genruntimeconfig.cache
 C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\FucionesEjercicio2\obj\Debug\net8.0\ref\FuncionesEjercicio2.dll
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\FucionesEjercicio2\bin\Debug\net8.0\LibreriaDeFunciones.dll
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\FucionesEjercicio2\bin\Debug\net8.0\LibreriaDeFunciones.pdb
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\FucionesEjercicio2\obj\Debug\net8.0\FuncionesEjercicio2.csproj.AssemblyReference.cache
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\FucionesEjercicio2\obj\Debug\net8.0\Funcione.203B348F.Up2Date

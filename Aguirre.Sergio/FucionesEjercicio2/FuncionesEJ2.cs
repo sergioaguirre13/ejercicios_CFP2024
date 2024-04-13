@@ -1,5 +1,6 @@
 ﻿using System;
 using static System.Runtime.InteropServices.JavaScript.JSType;
+using LibreriaDeFunciones;
 
 namespace FucionesEjercicio2
 {
@@ -9,13 +10,13 @@ namespace FucionesEjercicio2
         {
 
             //Crear una función que determine si el número recibido por parámetro es primo o no.
-
+            
             int numero;
 
             Console.WriteLine("Ingrese un número, para verificar si es primo");
             numero = int.Parse(Console.ReadLine());
 
-            if (EsPrimo(numero))
+            if (MisMetodos.EsPrimo(numero)) 
             {
                 Console.WriteLine($"{numero} es un número primo");
             }
@@ -24,8 +25,8 @@ namespace FucionesEjercicio2
                 Console.WriteLine($"{numero} NO es un número primo");
             }
         }
-
-        static bool EsPrimo(int numero)
+            
+       /* static bool EsPrimo(int numero)
         {
             if (numero <= 1)
             {
@@ -42,6 +43,6 @@ namespace FucionesEjercicio2
                        
             return true;
 
-        }
+        }*/
     }
 }

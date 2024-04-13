@@ -10,19 +10,27 @@ namespace VectoresEjercicio2
             //Cargar un vector de enteros de 5 elementos, sumar los valores y mostrarlo.
 
 
-            int sumaNumeros = 0;
-            int[] numeros = { 1, 2, 3, 4, 5 };
+            int[] numero = new int[5];
+            int sumaArray = 0;
 
-            Console.WriteLine("Los numeros del vector son: ");
+            Console.WriteLine($"Ingresa {numero.Length} numero/s");
 
-            foreach (int i in numeros)
+
+            for (int i = 0; i < numero.Length; i++)
             {
-                Console.WriteLine(i);
-                sumaNumeros = sumaNumeros + i;
+                Console.Write($"{i + 1}° número: ");
+                numero[i] = int.Parse(Console.ReadLine());
+                sumaArray += numero[i];
             }
 
-            Console.Write("La suma de todos esos numeros es: ");
-            Console.WriteLine(sumaNumeros);
+            Console.WriteLine($"La suma del array es: {sumaArray}");
+            Console.WriteLine("Los numeros del array son: ");
+
+            foreach (var num in numero)
+            {
+                Console.Write($"{num} ");
+            }
+
         }
     }
 }

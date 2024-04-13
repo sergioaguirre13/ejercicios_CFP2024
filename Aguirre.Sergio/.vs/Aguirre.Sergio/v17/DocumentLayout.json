@@ -1,12 +1,69 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D09C0339-BA25-424D-AE8A-3E3EB5DC79A3}|ArrayConFuncionEJ2\\ArrayConFuncionEJ2.csproj|c:\\users\\sergio\\desktop\\ejercicios_cfp2024\\aguirre.sergio\\arrayconfuncionej2\\arrayconfuncionej2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09C0339-BA25-424D-AE8A-3E3EB5DC79A3}|ArrayConFuncionEJ2\\ArrayConFuncionEJ2.csproj|solutionrelative:arrayconfuncionej2\\arrayconfuncionej2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0E7546-20AC-401F-A491-7E749D03F8D3}|LibreriaDeFunciones\\LibreriaDeFunciones.csproj|C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\libreriadefunciones\\mismetodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0E7546-20AC-401F-A491-7E749D03F8D3}|LibreriaDeFunciones\\LibreriaDeFunciones.csproj|solutionrelative:libreriadefunciones\\mismetodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49A5D054-EFEF-4FC6-84D7-5EAE115882CF}|VectoresEjercicio2\\VectoresEjercicio2.csproj|C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\vectoresejercicio2\\vectoresej2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49A5D054-EFEF-4FC6-84D7-5EAE115882CF}|VectoresEjercicio2\\VectoresEjercicio2.csproj|solutionrelative:vectoresejercicio2\\vectoresej2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArrayConFuncionEJ2.cs",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\ArrayConFuncionEJ2\\ArrayConFuncionEJ2.cs",
+              "RelativeDocumentMoniker": "ArrayConFuncionEJ2\\ArrayConFuncionEJ2.cs",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\ArrayConFuncionEJ2\\ArrayConFuncionEJ2.cs",
+              "RelativeToolTip": "ArrayConFuncionEJ2\\ArrayConFuncionEJ2.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T13:31:47.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VectoresEJ2.cs",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\VectoresEjercicio2\\VectoresEJ2.cs",
+              "RelativeDocumentMoniker": "VectoresEjercicio2\\VectoresEJ2.cs",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\VectoresEjercicio2\\VectoresEJ2.cs",
+              "RelativeToolTip": "VectoresEjercicio2\\VectoresEJ2.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T13:31:22.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MisMetodos.cs",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\LibreriaDeFunciones\\MisMetodos.cs",
+              "RelativeDocumentMoniker": "LibreriaDeFunciones\\MisMetodos.cs",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\LibreriaDeFunciones\\MisMetodos.cs",
+              "RelativeToolTip": "LibreriaDeFunciones\\MisMetodos.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwDEAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T14:15:18.142Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
