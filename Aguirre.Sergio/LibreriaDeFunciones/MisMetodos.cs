@@ -28,45 +28,29 @@
 
         //-----------------------------------------
 
-
-        // ingresar números a un array dando como parametro la cantidad de numeros que debe tener.
-        static int[] IngresarEnterosArray(int cantidad)
+        // ingreso - Suma y promedio de array --> Se pide por parametro la cantidad de numeros que llevara este array
+        static int[] IngresoSumaPromedioArray(int cantidad)
         {
-            int[] array = new int[cantidad];
 
-            Console.WriteLine($"Por favor ingrese: {cantidad} números para su array");
-
-            for (int i = 0; i < array.Length; i++)
-            {
-                Console.Write("Ingresando array: ");
-                array[i] = int.Parse(Console.ReadLine());
-            }
-
-            return array;
-        }
-
-        //-----------------------------------------
-
-        // idem array de arriba pero agrega la suma del array
-        static int[] IngresarEnterosYSumarArray(int cantidad)
-        {
             int[] array = new int[cantidad];
             int sumaArray = 0;
+            int promedioArray = 0;
 
-            Console.WriteLine($"Por favor ingrese: {cantidad} números para su array");
-
-            for (int i = 0; i < array.Length; i++)
+            for (int i = 0; i < cantidad; i++)
             {
-                Console.Write("Ingresando array: ");
+                Console.Write($"ingreses el {i + 1}° número: ");
                 array[i] = int.Parse(Console.ReadLine());
                 sumaArray += array[i];
+
             }
 
-            Console.WriteLine($"La suma del array es: {sumaArray}");
+            promedioArray = sumaArray / cantidad;
+            Console.WriteLine($"La suma de los numeros ingresados al array es de {sumaArray}");
+            Console.WriteLine($"El promedio de los numeros ingresados al array es de {promedioArray}");
+
 
             return array;
         }
-
 
     }
 }

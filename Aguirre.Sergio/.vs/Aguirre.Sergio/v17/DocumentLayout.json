@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D09C0339-BA25-424D-AE8A-3E3EB5DC79A3}|ArrayConFuncionEJ2\\ArrayConFuncionEJ2.csproj|c:\\users\\sergio\\desktop\\ejercicios_cfp2024\\aguirre.sergio\\arrayconfuncionej2\\arrayconfuncionej2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D09C0339-BA25-424D-AE8A-3E3EB5DC79A3}|ArrayConFuncionEJ2\\ArrayConFuncionEJ2.csproj|solutionrelative:arrayconfuncionej2\\arrayconfuncionej2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BF0E7546-20AC-401F-A491-7E749D03F8D3}|LibreriaDeFunciones\\LibreriaDeFunciones.csproj|C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\libreriadefunciones\\mismetodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF0E7546-20AC-401F-A491-7E749D03F8D3}|LibreriaDeFunciones\\LibreriaDeFunciones.csproj|solutionrelative:libreriadefunciones\\mismetodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49A5D054-EFEF-4FC6-84D7-5EAE115882CF}|VectoresEjercicio2\\VectoresEjercicio2.csproj|C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\vectoresejercicio2\\vectoresej2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49A5D054-EFEF-4FC6-84D7-5EAE115882CF}|VectoresEjercicio2\\VectoresEjercicio2.csproj|solutionrelative:vectoresejercicio2\\vectoresej2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0875C690-1943-44A8-A2E4-FF86AD9751FE}|ArrayConFuncionEJ4\\ArrayConFuncionEJ4.csproj|c:\\users\\sergio\\desktop\\ejercicios_cfp2024\\aguirre.sergio\\arrayconfuncionej4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0875C690-1943-44A8-A2E4-FF86AD9751FE}|ArrayConFuncionEJ4\\ArrayConFuncionEJ4.csproj|solutionrelative:arrayconfuncionej4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8F5A16-ADF8-44E4-BAF8-3C37FF186D92}|VectoresEjercicio4\\VectoresEjercicio4.csproj|c:\\users\\sergio\\desktop\\ejercicios_cfp2024\\aguirre.sergio\\vectoresejercicio4\\vectoresej4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8F5A16-ADF8-44E4-BAF8-3C37FF186D92}|VectoresEjercicio4\\VectoresEjercicio4.csproj|solutionrelative:vectoresejercicio4\\vectoresej4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ArrayConFuncionEJ2.cs",
-              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\ArrayConFuncionEJ2\\ArrayConFuncionEJ2.cs",
-              "RelativeDocumentMoniker": "ArrayConFuncionEJ2\\ArrayConFuncionEJ2.cs",
-              "ToolTip": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\ArrayConFuncionEJ2\\ArrayConFuncionEJ2.cs",
-              "RelativeToolTip": "ArrayConFuncionEJ2\\ArrayConFuncionEJ2.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBkAAAARAAAA",
+              "DocumentIndex": 2,
+              "Title": "VectoresEJ4.cs",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\VectoresEjercicio4\\VectoresEJ4.cs",
+              "RelativeDocumentMoniker": "VectoresEjercicio4\\VectoresEJ4.cs",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\VectoresEjercicio4\\VectoresEJ4.cs",
+              "RelativeToolTip": "VectoresEjercicio4\\VectoresEJ4.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T13:31:47.503Z",
+              "WhenOpened": "2024-04-13T16:23:23.393Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "VectoresEJ2.cs",
-              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\VectoresEjercicio2\\VectoresEJ2.cs",
-              "RelativeDocumentMoniker": "VectoresEjercicio2\\VectoresEJ2.cs",
-              "ToolTip": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\VectoresEjercicio2\\VectoresEJ2.cs",
-              "RelativeToolTip": "VectoresEjercicio2\\VectoresEJ2.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAABsAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\ArrayConFuncionEJ4\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayConFuncionEJ4\\Program.cs",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\ArrayConFuncionEJ4\\Program.cs",
+              "RelativeToolTip": "ArrayConFuncionEJ4\\Program.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAAFsAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T13:31:22.269Z"
+              "WhenOpened": "2024-04-13T16:21:29.431Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MisMetodos.cs",
               "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\LibreriaDeFunciones\\MisMetodos.cs",
               "RelativeDocumentMoniker": "LibreriaDeFunciones\\MisMetodos.cs",
               "ToolTip": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\LibreriaDeFunciones\\MisMetodos.cs",
               "RelativeToolTip": "LibreriaDeFunciones\\MisMetodos.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAgwDEAAAA9AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwCgAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T14:15:18.142Z"
+              "WhenOpened": "2024-04-11T14:15:18.142Z",
+              "EditorCaption": ""
             }
           ]
         }

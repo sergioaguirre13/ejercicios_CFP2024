@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\Funcion3Practica\\ArraysConFunciones.csproj",
-      "projectName": "ArraysConFunciones",
-      "projectPath": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\Funcion3Practica\\ArraysConFunciones.csproj",
+      "projectUniqueName": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\Funcion3Practica\\ArrayConFuncionesEJ1.csproj",
+      "projectName": "ArrayConFuncionesEJ1",
+      "projectPath": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\Funcion3Practica\\ArrayConFuncionesEJ1.csproj",
       "packagesPath": "C:\\Users\\Sergio\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\Funcion3Practica\\obj\\",
       "projectStyle": "PackageReference",

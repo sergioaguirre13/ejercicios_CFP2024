@@ -1,0 +1,15 @@
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\ArrayConFuncionEJ4\bin\Debug\net8.0\ArrayConFuncionEJ4.exe
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\ArrayConFuncionEJ4\bin\Debug\net8.0\ArrayConFuncionEJ4.deps.json
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\ArrayConFuncionEJ4\bin\Debug\net8.0\ArrayConFuncionEJ4.runtimeconfig.json
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\ArrayConFuncionEJ4\bin\Debug\net8.0\ArrayConFuncionEJ4.dll
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\ArrayConFuncionEJ4\bin\Debug\net8.0\ArrayConFuncionEJ4.pdb
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\ArrayConFuncionEJ4\obj\Debug\net8.0\ArrayConFuncionEJ4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\ArrayConFuncionEJ4\obj\Debug\net8.0\ArrayConFuncionEJ4.AssemblyInfoInputs.cache
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\ArrayConFuncionEJ4\obj\Debug\net8.0\ArrayConFuncionEJ4.AssemblyInfo.cs
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\ArrayConFuncionEJ4\obj\Debug\net8.0\ArrayConFuncionEJ4.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\ArrayConFuncionEJ4\obj\Debug\net8.0\ArrayConFuncionEJ4.sourcelink.json
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\ArrayConFuncionEJ4\obj\Debug\net8.0\ArrayConFuncionEJ4.dll
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\ArrayConFuncionEJ4\obj\Debug\net8.0\refint\ArrayConFuncionEJ4.dll
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\ArrayConFuncionEJ4\obj\Debug\net8.0\ArrayConFuncionEJ4.pdb
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\ArrayConFuncionEJ4\obj\Debug\net8.0\ArrayConFuncionEJ4.genruntimeconfig.cache
+C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\ArrayConFuncionEJ4\obj\Debug\net8.0\ref\ArrayConFuncionEJ4.dll
