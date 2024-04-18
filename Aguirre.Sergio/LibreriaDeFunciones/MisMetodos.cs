@@ -3,9 +3,7 @@
     public class MisMetodos
     {
 
-        // averiguar si son numeros primos |
-        //                                 |
-        //                                 v
+        // averiguar si son numeros primos                                  
        public static bool EsPrimo(int numero)
         {
             if (numero <= 1)
@@ -27,9 +25,8 @@
 
 
         //-----------------------------------------
-
         // ingreso - Suma y promedio de array --> Se pide por parametro la cantidad de numeros que llevara este array
-        static int[] IngresoSumaPromedioArray(int cantidad)
+       public static int[] IngresoSumaPromedioArray(int cantidad)
         {
 
             int[] array = new int[cantidad];
@@ -51,6 +48,18 @@
 
             return array;
         }
+
+        //-----------------------------------------
+        //Imprimir array
+        public static void ImprimirArray(string mensaje, int[] array)
+        {
+            Console.WriteLine(mensaje);
+            foreach (var num in array)
+            {
+                Console.WriteLine(num);
+            }
+        }
+
 
     }
 }
