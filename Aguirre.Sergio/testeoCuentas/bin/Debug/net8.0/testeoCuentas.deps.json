@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "testeoCuentas/1.0.0": {
+        "dependencies": {
+          "LibreriaDeCuentas": "1.0.0"
+        },
+        "runtime": {
+          "testeoCuentas.dll": {}
+        }
+      },
+      "LibreriaDeCuentas/1.0.0": {
+        "runtime": {
+          "LibreriaDeCuentas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "testeoCuentas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibreriaDeCuentas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

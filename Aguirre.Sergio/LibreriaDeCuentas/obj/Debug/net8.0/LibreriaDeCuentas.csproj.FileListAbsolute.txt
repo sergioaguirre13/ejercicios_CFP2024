@@ -1,0 +1,12 @@
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeCuentas\bin\Debug\net8.0\LibreriaDeCuentas.deps.json
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeCuentas\bin\Debug\net8.0\LibreriaDeCuentas.dll
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeCuentas\bin\Debug\net8.0\LibreriaDeCuentas.pdb
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeCuentas\obj\Debug\net8.0\LibreriaDeCuentas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeCuentas\obj\Debug\net8.0\LibreriaDeCuentas.AssemblyInfoInputs.cache
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeCuentas\obj\Debug\net8.0\LibreriaDeCuentas.AssemblyInfo.cs
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeCuentas\obj\Debug\net8.0\LibreriaDeCuentas.csproj.CoreCompileInputs.cache
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeCuentas\obj\Debug\net8.0\LibreriaDeCuentas.sourcelink.json
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeCuentas\obj\Debug\net8.0\LibreriaDeCuentas.dll
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeCuentas\obj\Debug\net8.0\refint\LibreriaDeCuentas.dll
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeCuentas\obj\Debug\net8.0\LibreriaDeCuentas.pdb
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeCuentas\obj\Debug\net8.0\ref\LibreriaDeCuentas.dll

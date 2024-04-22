@@ -41,24 +41,27 @@
             return $"el titular de la cuenta es: {titular} - el tipo de cuenta es: {tipoDeCuenta} - el saldo de la cuenta es: {saldo} ";
         }
 
-        public decimal IngresarDinero()
+        public bool IngresarDinero(decimal dineroIngresado)
         {
-            ////IngresarDinero: recibirá un monto para acreditar a la cuenta. Si el monto
-            //ingresado es negativo, no se hará nada.
-
-
-            return 0;
+           
+            if (dineroIngresado <= 0)
+            {
+                return false;
+            }
+            else
+            {
+                this.saldo += dineroIngresado;
+                return true;
+            }
         }
 
-        public decimal RetirarDinero()
+        public decimal RetirarDinero(decimal dineroRetirado)
         {
-            //        RetirarDinero: recibirá un monto para debitar de la cuenta. La cuenta
-            //puede quedar en negativo.
+    
+            saldo -= dineroRetirado;
 
-            return 0;
+            return saldo;
         }
-
-
     }
 }
 
