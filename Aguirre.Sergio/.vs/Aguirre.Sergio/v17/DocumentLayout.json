@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C1C2C11-ABDF-46D7-862A-56D352184039}|testeoCuentas\\testeoCuentas.csproj|c:\\users\\sergio\\desktop\\ejercicios_cfp2024\\aguirre.sergio\\testeocuentas\\testeocuentas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C1C2C11-ABDF-46D7-862A-56D352184039}|testeoCuentas\\testeoCuentas.csproj|solutionrelative:testeocuentas\\testeocuentas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A7F162F-64D1-4675-8473-481B9641E38F}|Testeo_Cine\\Testeo_Cine.csproj|c:\\users\\sergio\\desktop\\ejercicios_cfp2024\\aguirre.sergio\\testeo_cine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7F162F-64D1-4675-8473-481B9641E38F}|Testeo_Cine\\Testeo_Cine.csproj|solutionrelative:testeo_cine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D2DAA82-7794-4207-9CE1-F22BAA9B2F39}|LibreriaDeCuentas\\LibreriaDeCuentas.csproj|c:\\users\\sergio\\desktop\\ejercicios_cfp2024\\aguirre.sergio\\libreriadecuentas\\cuentas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D2DAA82-7794-4207-9CE1-F22BAA9B2F39}|LibreriaDeCuentas\\LibreriaDeCuentas.csproj|solutionrelative:libreriadecuentas\\cuentas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4A3111B-9279-48ED-AD06-105D67F4A583}|LibreriaDeRobots\\LibreriaDeRobots.csproj|c:\\users\\sergio\\desktop\\ejercicios_cfp2024\\aguirre.sergio\\libreriaderobots\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4A3111B-9279-48ED-AD06-105D67F4A583}|LibreriaDeRobots\\LibreriaDeRobots.csproj|solutionrelative:libreriaderobots\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B5E0AE3-02F8-4DE9-811D-58E2625B596A}|LibreriaDeBookStore\\LibreriaDeLibreria.csproj|c:\\users\\sergio\\desktop\\ejercicios_cfp2024\\aguirre.sergio\\libreriadebookstore\\cine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5E0AE3-02F8-4DE9-811D-58E2625B596A}|LibreriaDeBookStore\\LibreriaDeLibreria.csproj|solutionrelative:libreriadebookstore\\cine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TesteoCuentas.cs",
-              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\testeoCuentas\\TesteoCuentas.cs",
-              "RelativeDocumentMoniker": "testeoCuentas\\TesteoCuentas.cs",
-              "ToolTip": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\testeoCuentas\\TesteoCuentas.cs",
-              "RelativeToolTip": "testeoCuentas\\TesteoCuentas.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\Testeo_Cine\\Program.cs",
+              "RelativeDocumentMoniker": "Testeo_Cine\\Program.cs",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\Testeo_Cine\\Program.cs",
+              "RelativeToolTip": "Testeo_Cine\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T16:52:43.127Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Robot.cs",
-              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\LibreriaDeRobots\\Robot.cs",
-              "RelativeDocumentMoniker": "LibreriaDeRobots\\Robot.cs",
-              "ToolTip": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\LibreriaDeRobots\\Robot.cs",
-              "RelativeToolTip": "LibreriaDeRobots\\Robot.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAUwDcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T16:45:14.55Z",
+              "WhenOpened": "2024-05-06T13:45:39.026Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Cuentas.cs",
-              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\LibreriaDeCuentas\\Cuentas.cs",
-              "RelativeDocumentMoniker": "LibreriaDeCuentas\\Cuentas.cs",
-              "ToolTip": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\LibreriaDeCuentas\\Cuentas.cs",
-              "RelativeToolTip": "LibreriaDeCuentas\\Cuentas.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAiwDkAAAAVAAAA",
+              "Title": "Cine.cs",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\LibreriaDeBookStore\\Cine.cs",
+              "RelativeDocumentMoniker": "LibreriaDeBookStore\\Cine.cs",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\LibreriaDeBookStore\\Cine.cs",
+              "RelativeToolTip": "LibreriaDeBookStore\\Cine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T16:29:28.452Z",
+              "WhenOpened": "2024-05-06T13:20:14.877Z",
               "EditorCaption": ""
             }
           ]
