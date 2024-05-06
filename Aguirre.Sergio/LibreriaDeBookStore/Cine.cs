@@ -1,4 +1,4 @@
-﻿namespace LibreriaDeBookStore
+﻿namespace LibreriaDeCine
 {
     public class Cine
     {

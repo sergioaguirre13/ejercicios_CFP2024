@@ -121,7 +121,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Librerias y testeos", "Libr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibreriaDeCine", "LibreriaDeBookStore\LibreriaDeCine.csproj", "{6B5E0AE3-02F8-4DE9-811D-58E2625B596A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testeo_Cine", "Testeo_Cine\Testeo_Cine.csproj", "{6A7F162F-64D1-4675-8473-481B9641E38F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Testeo_Cine", "Testeo_Cine\Testeo_Cine.csproj", "{6A7F162F-64D1-4675-8473-481B9641E38F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibreriaDePokemon", "LibreriaDePokemon\LibreriaDePokemon.csproj", "{F7E8954F-A60F-4B68-A02B-9F94277D5BA2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -333,6 +335,10 @@ Global
 		{6A7F162F-64D1-4675-8473-481B9641E38F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A7F162F-64D1-4675-8473-481B9641E38F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A7F162F-64D1-4675-8473-481B9641E38F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7E8954F-A60F-4B68-A02B-9F94277D5BA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7E8954F-A60F-4B68-A02B-9F94277D5BA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7E8954F-A60F-4B68-A02B-9F94277D5BA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7E8954F-A60F-4B68-A02B-9F94277D5BA2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

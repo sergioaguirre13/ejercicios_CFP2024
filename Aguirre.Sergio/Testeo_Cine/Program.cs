@@ -1,4 +1,4 @@
-﻿using LibreriaDeBookStore;
+﻿using LibreriaDeCine;
 
 namespace Testeo_Cine
 {
@@ -71,3 +71,9 @@ namespace Testeo_Cine
         }
     }
 }
+
+
+// Se puede complejizar: 1) asignando que se pueda comprar maximo 5 entradas
+//                       2) emitiendo un numero de ticket por entrada (como lugares y asientos) quizas agregandole una clase TICKETS(entradas) en la libreria de clases
+//                       3) que las peliculas se guarden en una coleccion (lista - array)
+//                       4) que la seleccion de peliculas se realicen con otro OBJETO de la libreria de clases

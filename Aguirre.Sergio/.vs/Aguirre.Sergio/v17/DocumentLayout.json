@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6A7F162F-64D1-4675-8473-481B9641E38F}|Testeo_Cine\\Testeo_Cine.csproj|c:\\users\\sergio\\desktop\\ejercicios_cfp2024\\aguirre.sergio\\testeo_cine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A7F162F-64D1-4675-8473-481B9641E38F}|Testeo_Cine\\Testeo_Cine.csproj|solutionrelative:testeo_cine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B5E0AE3-02F8-4DE9-811D-58E2625B596A}|LibreriaDeBookStore\\LibreriaDeLibreria.csproj|c:\\users\\sergio\\desktop\\ejercicios_cfp2024\\aguirre.sergio\\libreriadebookstore\\cine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B5E0AE3-02F8-4DE9-811D-58E2625B596A}|LibreriaDeBookStore\\LibreriaDeLibreria.csproj|solutionrelative:libreriadebookstore\\cine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F7E8954F-A60F-4B68-A02B-9F94277D5BA2}|LibreriaDePokemon\\LibreriaDePokemon.csproj|c:\\users\\sergio\\desktop\\ejercicios_cfp2024\\aguirre.sergio\\libreriadepokemon\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E8954F-A60F-4B68-A02B-9F94277D5BA2}|LibreriaDePokemon\\LibreriaDePokemon.csproj|solutionrelative:libreriadepokemon\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\Testeo_Cine\\Program.cs",
-              "RelativeDocumentMoniker": "Testeo_Cine\\Program.cs",
-              "ToolTip": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\Testeo_Cine\\Program.cs",
-              "RelativeToolTip": "Testeo_Cine\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\LibreriaDePokemon\\Class1.cs",
+              "RelativeDocumentMoniker": "LibreriaDePokemon\\Class1.cs",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\LibreriaDePokemon\\Class1.cs",
+              "RelativeToolTip": "LibreriaDePokemon\\Class1.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAAD8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T13:45:39.026Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Cine.cs",
-              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\LibreriaDeBookStore\\Cine.cs",
-              "RelativeDocumentMoniker": "LibreriaDeBookStore\\Cine.cs",
-              "ToolTip": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\LibreriaDeBookStore\\Cine.cs",
-              "RelativeToolTip": "LibreriaDeBookStore\\Cine.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T13:20:14.877Z",
+              "WhenOpened": "2024-05-06T16:10:58.279Z",
               "EditorCaption": ""
             }
           ]
