@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Testeo_Cine2/1.0.0": {
+        "dependencies": {
+          "LibreriaDeCine": "1.0.0"
+        },
+        "runtime": {
+          "Testeo_Cine2.dll": {}
+        }
+      },
+      "LibreriaDeCine/1.0.0": {
+        "runtime": {
+          "LibreriaDeCine.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Testeo_Cine2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibreriaDeCine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

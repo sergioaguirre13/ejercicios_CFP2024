@@ -10,3 +10,15 @@ C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeBookStore\ob
 C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeBookStore\obj\Debug\net8.0\refint\LibreriaDeCine.dll
 C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeBookStore\obj\Debug\net8.0\LibreriaDeCine.pdb
 C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeBookStore\obj\Debug\net8.0\ref\LibreriaDeCine.dll
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeBookStore\bin\Debug\net8.0\LibreriaDeCine.deps.json
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeBookStore\bin\Debug\net8.0\LibreriaDeCine.dll
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeBookStore\bin\Debug\net8.0\LibreriaDeCine.pdb
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeBookStore\obj\Debug\net8.0\LibreriaDeCine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeBookStore\obj\Debug\net8.0\LibreriaDeCine.AssemblyInfoInputs.cache
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeBookStore\obj\Debug\net8.0\LibreriaDeCine.AssemblyInfo.cs
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeBookStore\obj\Debug\net8.0\LibreriaDeCine.csproj.CoreCompileInputs.cache
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeBookStore\obj\Debug\net8.0\LibreriaDeCine.sourcelink.json
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeBookStore\obj\Debug\net8.0\LibreriaDeCine.dll
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeBookStore\obj\Debug\net8.0\refint\LibreriaDeCine.dll
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeBookStore\obj\Debug\net8.0\LibreriaDeCine.pdb
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeBookStore\obj\Debug\net8.0\ref\LibreriaDeCine.dll

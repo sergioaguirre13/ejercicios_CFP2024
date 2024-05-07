@@ -123,7 +123,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibreriaDeCine", "LibreriaD
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Testeo_Cine", "Testeo_Cine\Testeo_Cine.csproj", "{6A7F162F-64D1-4675-8473-481B9641E38F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibreriaDePokemon", "LibreriaDePokemon\LibreriaDePokemon.csproj", "{F7E8954F-A60F-4B68-A02B-9F94277D5BA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibreriaDePokemon", "LibreriaDePokemon\LibreriaDePokemon.csproj", "{F7E8954F-A60F-4B68-A02B-9F94277D5BA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testeo_Cine2", "Testeo_Cine2\Testeo_Cine2.csproj", "{8AA56F0F-F7F2-497B-8FE8-19B9FD9AD40A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -339,6 +341,10 @@ Global
 		{F7E8954F-A60F-4B68-A02B-9F94277D5BA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7E8954F-A60F-4B68-A02B-9F94277D5BA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7E8954F-A60F-4B68-A02B-9F94277D5BA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AA56F0F-F7F2-497B-8FE8-19B9FD9AD40A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AA56F0F-F7F2-497B-8FE8-19B9FD9AD40A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AA56F0F-F7F2-497B-8FE8-19B9FD9AD40A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AA56F0F-F7F2-497B-8FE8-19B9FD9AD40A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

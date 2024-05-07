@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LibreriaDeCine")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c62c5e76f6a51b000687384a418f1be5407ac27")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad646a5e9ae42ddb7f87ddf603f1b8c3d499ea23")]
 [assembly: System.Reflection.AssemblyProductAttribute("LibreriaDeCine")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LibreriaDeCine")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
