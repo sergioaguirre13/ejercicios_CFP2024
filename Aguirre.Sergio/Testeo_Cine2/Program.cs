@@ -1,4 +1,4 @@
-﻿using LibreriaDeCine;
+﻿using LibreriaDePeliculas;
 
 namespace Testeo_Cine2
 {
@@ -9,11 +9,11 @@ namespace Testeo_Cine2
             bool seguirComprando = true;
             int seleccion = 0;
 
-            Cine pelicula1 = new Cine("Tiempos Violentos", "Tarantino", 1992, "Thriller");
-            Cine pelicula2 = new Cine("La sirenita", "Gilian Morrison", 2015, "Animada");
-            Cine pelicula3 = new Cine("El Rey Leon VI", "Pippo Cipollati", 2024, "Terror infantil");
-            Cine pelicula4 = new Cine("DUNA", "Miguel Del Sol", 2023, "Ciencia Ficción");
-            Cine pelicula5 = new Cine("Esperando la carroña", "Adrian Suar", 2020, "Comedia costumbrista");
+            Peliculas pelicula1 = new Peliculas("Tiempos Violentos", "Tarantino", 1992, "Thriller");
+            Peliculas pelicula2 = new Peliculas("La sirenita", "Gilian Morrison", 2015, "Animada");
+            Peliculas pelicula3 = new Peliculas("El Rey Leon VI", "Pippo Cipollati", 2024, "Terror infantil");
+            Peliculas pelicula4 = new Peliculas("DUNA", "Miguel Del Sol", 2023, "Ciencia Ficción");
+            Peliculas pelicula5 = new Peliculas("Esperando la carroña", "Adrian Suar", 2020, "Comedia costumbrista");
 
             Console.WriteLine("--------------------------------------");
 
@@ -72,7 +72,7 @@ namespace Testeo_Cine2
 
             Console.WriteLine("---------------------------------");
 
-            List<Cine> listaPeliculas = new List<Cine>();
+            List<Peliculas> listaPeliculas = new List<Peliculas>();
 
             listaPeliculas.Add(pelicula1);
             listaPeliculas.Add(pelicula2);

@@ -9,9 +9,9 @@ namespace Testeo_Cine
             bool seguirComprando = true;
             int seleccion = 0;
 
-            Cine pelicula1 = new Cine("Tiempos Violentos", "Tarantino", 1992, "Thriller");
-            Cine pelicula2 = new Cine("La sirenita", "Gilian Morrison", 2015, "Animada");
-            Cine pelicula3 = new Cine("El Rey Leon VI", "Pippo Cipollati", 2024, "Terror infantil");
+            Peliculas pelicula1 = new Peliculas("Tiempos Violentos", "Tarantino", 1992, "Thriller");
+            Peliculas pelicula2 = new Peliculas("La sirenita", "Gilian Morrison", 2015, "Animada");
+            Peliculas pelicula3 = new Peliculas("El Rey Leon VI", "Pippo Cipollati", 2024, "Terror infantil");
 
             Console.WriteLine("Bievenido a CINEMAPOPULI!");
 

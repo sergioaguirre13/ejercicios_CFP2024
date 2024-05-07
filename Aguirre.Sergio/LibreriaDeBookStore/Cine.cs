@@ -1,113 +1,36 @@
-﻿namespace LibreriaDeCine
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace LibreriaDePeliculas
 {
     public class Cine
     {
-        string pelicula;
-        string director;
-        int anio;
-        string genero;
-        int entradasVendidas;
-        int lugaresMaximos;
+        
+        private List<Peliculas> listaPeliculas;
 
-        public Cine(string pelicula, string director,int anio, string genero)
+        public Cine()
         {
-            this.pelicula = pelicula;
-            this.director = director;
-            this.anio = anio;
-            this.genero = genero;
-            this.entradasVendidas = 0;
-            this.lugaresMaximos = 50;
+            listaPeliculas = new List<Peliculas>();
         }
-     
-        #region setters - getters
-        public void SetPelicula(string nombre)
+
+        public void AgregarPelicula(Peliculas peliculas)
         {
-            pelicula = nombre;
+            listaPeliculas.Add(peliculas);
         }
 
-        public void SetDirector (string nombre)
+
+        public void MostrarPeliculas()
         {
-            director = nombre;
-        }
-
-        public void SetAnio (int fecha)
-        {
-            anio = fecha;
-        }
-
-        public void SetGenero (string nombre)
-        {
-            genero = nombre;
-        }
-
-        public void SetEntradasVendidas(int entradas)
-        {
-            entradasVendidas = entradas;
-        }
-
-        public string GetPeliculas()
-        {
-            return pelicula;
-        }
-
-        public string GetDirector() 
-        { 
-            return director;
-        }
-
-        public int GetAnio()
-        { 
-            return anio;
-        }
-
-        public string GetGenero()
-        {
-            return genero;
-        }
-
-        public int GetEntradasVendidas()
-        {
-            return entradasVendidas;
-        }
-
-        public int GetLugaresMaximos()
-        {
-            return lugaresMaximos;
-        }
-
-        #endregion
-
-        public string PeliculaToString()
-        {
-            return $"Pelicula: {pelicula} - Director: {director} - Año: {anio} - Genero: {genero} - Entradas Vendidas: {entradasVendidas}";
-        }
-
-        public bool VenderEntrada(int cantidad)
-        {
-            Console.WriteLine($"Usted desea comprar {cantidad} de entrada/s");
-
-            if (cantidad > lugaresMaximos)
+            foreach (var peliculas in listaPeliculas)
             {
-                Console.WriteLine("No hay disponibilidad para esa cantidad de entradas");
-                Console.WriteLine($"Disponibilidad en este momento: {lugaresMaximos}");
-                if (lugaresMaximos == 0)
-                {
-                    Console.WriteLine("ENTRADAS AGOTADAS");
-                }
-                return false;
+                Console.WriteLine($"nombre: {peliculas.nombre} - director: {peliculas.director} - Año: {peliculas.anio} - Genero: {peliculas.genero} ");
             }
-            else
-            {
-                entradasVendidas += cantidad;
-                lugaresMaximos -= cantidad;
-                Console.WriteLine("La compra se realizo con exito");
-                return true;
-            }
-
-            
         }
 
+        
+        
     }
-
 }
-

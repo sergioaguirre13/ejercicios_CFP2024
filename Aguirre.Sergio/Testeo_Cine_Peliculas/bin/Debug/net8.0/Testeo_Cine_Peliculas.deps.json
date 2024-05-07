@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Testeo_Cine_Peliculas/1.0.0": {
+        "dependencies": {
+          "LibreriaDePeliculas": "1.0.0"
+        },
+        "runtime": {
+          "Testeo_Cine_Peliculas.dll": {}
+        }
+      },
+      "LibreriaDePeliculas/1.0.0": {
+        "runtime": {
+          "LibreriaDePeliculas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Testeo_Cine_Peliculas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibreriaDePeliculas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

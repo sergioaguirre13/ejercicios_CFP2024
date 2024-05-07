@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Testeo_Cine2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad646a5e9ae42ddb7f87ddf603f1b8c3d499ea23")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+303f12c1d70990b0503e9bbe381a4d96f8ffe4a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Testeo_Cine2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Testeo_Cine2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
