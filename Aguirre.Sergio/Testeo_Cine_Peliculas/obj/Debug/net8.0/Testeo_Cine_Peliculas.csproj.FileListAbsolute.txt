@@ -17,3 +17,22 @@ C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Testeo_Cine_Peliculas\
 C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Testeo_Cine_Peliculas\obj\Debug\net8.0\Testeo_Cine_Peliculas.pdb
 C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Testeo_Cine_Peliculas\obj\Debug\net8.0\Testeo_Cine_Peliculas.genruntimeconfig.cache
 C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Testeo_Cine_Peliculas\obj\Debug\net8.0\ref\Testeo_Cine_Peliculas.dll
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Testeo_Cine_Peliculas\bin\Debug\net8.0\Testeo_Cine_Peliculas.exe
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Testeo_Cine_Peliculas\bin\Debug\net8.0\Testeo_Cine_Peliculas.deps.json
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Testeo_Cine_Peliculas\bin\Debug\net8.0\Testeo_Cine_Peliculas.runtimeconfig.json
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Testeo_Cine_Peliculas\bin\Debug\net8.0\Testeo_Cine_Peliculas.dll
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Testeo_Cine_Peliculas\bin\Debug\net8.0\Testeo_Cine_Peliculas.pdb
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Testeo_Cine_Peliculas\bin\Debug\net8.0\LibreriaDePeliculas.dll
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Testeo_Cine_Peliculas\bin\Debug\net8.0\LibreriaDePeliculas.pdb
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Testeo_Cine_Peliculas\obj\Debug\net8.0\Testeo_Cine_Peliculas.csproj.AssemblyReference.cache
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Testeo_Cine_Peliculas\obj\Debug\net8.0\Testeo_Cine_Peliculas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Testeo_Cine_Peliculas\obj\Debug\net8.0\Testeo_Cine_Peliculas.AssemblyInfoInputs.cache
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Testeo_Cine_Peliculas\obj\Debug\net8.0\Testeo_Cine_Peliculas.AssemblyInfo.cs
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Testeo_Cine_Peliculas\obj\Debug\net8.0\Testeo_Cine_Peliculas.csproj.CoreCompileInputs.cache
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Testeo_Cine_Peliculas\obj\Debug\net8.0\Testeo_Cine_Peliculas.sourcelink.json
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Testeo_Cine_Peliculas\obj\Debug\net8.0\Testeo_Cine_Peliculas.csproj.CopyComplete
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Testeo_Cine_Peliculas\obj\Debug\net8.0\Testeo_Cine_Peliculas.dll
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Testeo_Cine_Peliculas\obj\Debug\net8.0\refint\Testeo_Cine_Peliculas.dll
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Testeo_Cine_Peliculas\obj\Debug\net8.0\Testeo_Cine_Peliculas.pdb
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Testeo_Cine_Peliculas\obj\Debug\net8.0\Testeo_Cine_Peliculas.genruntimeconfig.cache
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Testeo_Cine_Peliculas\obj\Debug\net8.0\ref\Testeo_Cine_Peliculas.dll

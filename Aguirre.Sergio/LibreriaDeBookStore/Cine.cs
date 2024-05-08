@@ -30,6 +30,14 @@ namespace LibreriaDePeliculas
             }
         }
 
+        public void MostrarVentas()
+        {
+            foreach (var peliculas in listaPeliculas)
+            {
+                Console.WriteLine($" {peliculas.nombre} - ENTRADAS VENDIDAS: {peliculas.entradasVendidas}  ");
+            }
+        }
+
         
         
     }

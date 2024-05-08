@@ -9,18 +9,17 @@ namespace LibreriaDePeliculas
         static Peliculas pelicula3;
         static Peliculas pelicula4;
         static Peliculas pelicula5;
-        
+
         static void Main(string[] args)
         {
-            int seleccion = 0;
-            int cantidadEntradas = 0;
+            
 
             Cine cine = new Cine();
-            Peliculas pelicula1 = new Peliculas("Tiempos Violentos", "Tarantino", 1992, "Thriller");
-            Peliculas pelicula2 = new Peliculas("La sisternita", "Gilian Morrison", 2015, "Animada");
-            Peliculas pelicula3 = new Peliculas("El Rey Leon VI", "Pippo Cipollati", 2024, "Comedia infantil");
-            Peliculas pelicula4 = new Peliculas("DUNA", "Miguel Del Sol", 2023, "Ciencia Ficción");
-            Peliculas pelicula5 = new Peliculas("Esperando la carroña", "Adrian Suar", 2020, "Comedia costumbrista");
+            pelicula1 = new Peliculas("Tiempos Violentos", "Tarantino", 1992, "Thriller");
+            pelicula2 = new Peliculas("La sisternita", "Gilian Morrison", 2015, "Animada");
+            pelicula3 = new Peliculas("El Rey Leon VI", "Pippo Cipollati", 2024, "Comedia infantil");
+            pelicula4 = new Peliculas("DUNA", "Miguel Del Sol", 2023, "Ciencia Ficción");
+            pelicula5 = new Peliculas("Esperando la carroña", "Adrian Suar", 2020, "Comedia costumbrista");
 
             cine.AgregarPelicula(pelicula1);
             cine.AgregarPelicula(pelicula2);
@@ -30,41 +29,113 @@ namespace LibreriaDePeliculas
 
 
             Console.WriteLine("Bienvenido a CINEMAPOPULI!");
-            Console.WriteLine("aqui la cartelera: ");
+            Console.WriteLine("-----CARTELERA-----");
             cine.MostrarPeliculas();
+            Console.WriteLine("-------------------");
 
-            Console.WriteLine("Seleccione que pelicula desea ver?");
+            ComprarEntradas();
+
+            Console.Clear();
+            Console.WriteLine("Ventas: ");
+            cine.MostrarVentas();
+        }
+
+        public static void ComprarEntradas()
+        {
+            string seguirComprando = string.Empty;
+            int seleccion = 0;
+            int cantidadEntradas = 0;
+
+            do
+            {
+
+             Console.WriteLine("Seleccione que pelicula desea ver?");
             Console.WriteLine($"(1) {pelicula1.nombre} (2) {pelicula2.nombre} (3) {pelicula3.nombre} (4) {pelicula4.nombre} (5) {pelicula5.nombre}");
             seleccion = int.Parse(Console.ReadLine());
             Console.WriteLine("Cuantas entradas desea ?");
             cantidadEntradas = int.Parse(Console.ReadLine());
 
-            ComprarEntradas(cantidadEntradas,seleccion);
+                switch (seleccion)
+                {
+                    case 1:
 
-           
-        }
+                        if (cantidadEntradas > pelicula1.lugaresMaximos)
+                        {
+                            Console.WriteLine("NO HAY SUFICIENTE CANTIDAD DE ENTRADAS");
+                        }
+                        else
+                        {
+                        Console.WriteLine($"compro {cantidadEntradas} de entrada/s para {pelicula1.nombre}");
+                        pelicula1.entradasVendidas += cantidadEntradas;
+                        pelicula1.lugaresMaximos -= cantidadEntradas;
+                        
+                        }
+                        break;
 
-        //ARREGLAR INSTANCIAS DE LOS OBJETOS EN EL METODO
-        public static void ComprarEntradas(int cantidad, int seleccionPelicula)
-        {
-            switch (seleccionPelicula)
-            {
-                case 1:
-                    Console.WriteLine($"compro {cantidad} de entrada/s para {pelicula1.nombre}");
-                    break;
-                case 2:
-                    Console.WriteLine($"compro {cantidad} de entrada/s para {pelicula2.nombre}");
-                    break;
-                case 3:
-                    Console.WriteLine($"compro {cantidad} de entrada/s para {pelicula3.nombre}");
-                    break;
-                case 4:
-                    Console.WriteLine($"compro {cantidad} de entrada/s para {pelicula4.nombre}");
-                    break;
-                case 5:
-                    Console.WriteLine($"compro {cantidad} de entrada/s para {pelicula5.nombre}");
-                    break;
-            }
-        }
-    }
-}
+                    case 2:
+                        if (cantidadEntradas > pelicula2.lugaresMaximos)
+                        {
+                            Console.WriteLine("NO HAY SUFICIENTE CANTIDAD DE ENTRADAS");
+                        }
+                        else
+                        {
+                            Console.WriteLine($"compro {cantidadEntradas} de entrada/s para {pelicula2.nombre}");
+                            pelicula2.entradasVendidas += cantidadEntradas;
+                            pelicula2.lugaresMaximos -= cantidadEntradas;
+
+                        }
+                        break;
+
+                    case 3:
+                        if (cantidadEntradas > pelicula3.lugaresMaximos)
+                        {
+                            Console.WriteLine("NO HAY SUFICIENTE CANTIDAD DE ENTRADAS");
+                        }
+                        else
+                        {
+                            Console.WriteLine($"compro {cantidadEntradas} de entrada/s para {pelicula3.nombre}");
+                            pelicula3.entradasVendidas += cantidadEntradas;
+                            pelicula3.lugaresMaximos -= cantidadEntradas;
+
+                        }
+                        break;
+
+                    case 4:
+                        if (cantidadEntradas > pelicula4.lugaresMaximos)
+                        {
+                            Console.WriteLine("NO HAY SUFICIENTE CANTIDAD DE ENTRADAS");
+                        }
+                        else
+                        {
+                            Console.WriteLine($"compro {cantidadEntradas} de entrada/s para {pelicula4.nombre}");
+                            pelicula4.entradasVendidas += cantidadEntradas;
+                            pelicula4.lugaresMaximos -= cantidadEntradas;
+
+                        }
+                        break;
+
+                    case 5:
+                        if (cantidadEntradas > pelicula5.lugaresMaximos)
+                        {
+                            Console.WriteLine("NO HAY SUFICIENTE CANTIDAD DE ENTRADAS");
+                        }
+                        else
+                        {
+                            Console.WriteLine($"compro {cantidadEntradas} de entrada/s para {pelicula5.nombre}");
+                            pelicula5.entradasVendidas += cantidadEntradas;
+                            pelicula5.lugaresMaximos -= cantidadEntradas;
+
+                        }
+                        break;
+                }
+
+                Console.WriteLine("Seguir comprando?");
+                seguirComprando = Console.ReadLine();
+
+            } while (seguirComprando == "s") ;
+
+         }
+     }
+    
+        
+}   

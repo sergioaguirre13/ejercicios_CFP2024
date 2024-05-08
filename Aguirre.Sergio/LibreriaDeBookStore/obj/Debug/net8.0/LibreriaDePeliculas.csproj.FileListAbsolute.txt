@@ -10,3 +10,15 @@ C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeBookStore\ob
 C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeBookStore\obj\Debug\net8.0\refint\LibreriaDePeliculas.dll
 C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeBookStore\obj\Debug\net8.0\LibreriaDePeliculas.pdb
 C:\Users\Sergio\Desktop\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeBookStore\obj\Debug\net8.0\ref\LibreriaDePeliculas.dll
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeBookStore\bin\Debug\net8.0\LibreriaDePeliculas.deps.json
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeBookStore\bin\Debug\net8.0\LibreriaDePeliculas.dll
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeBookStore\bin\Debug\net8.0\LibreriaDePeliculas.pdb
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeBookStore\obj\Debug\net8.0\LibreriaDePeliculas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeBookStore\obj\Debug\net8.0\LibreriaDePeliculas.AssemblyInfoInputs.cache
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeBookStore\obj\Debug\net8.0\LibreriaDePeliculas.AssemblyInfo.cs
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeBookStore\obj\Debug\net8.0\LibreriaDePeliculas.csproj.CoreCompileInputs.cache
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeBookStore\obj\Debug\net8.0\LibreriaDePeliculas.sourcelink.json
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeBookStore\obj\Debug\net8.0\LibreriaDePeliculas.dll
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeBookStore\obj\Debug\net8.0\refint\LibreriaDePeliculas.dll
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeBookStore\obj\Debug\net8.0\LibreriaDePeliculas.pdb
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeBookStore\obj\Debug\net8.0\ref\LibreriaDePeliculas.dll
