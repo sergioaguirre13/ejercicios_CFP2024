@@ -59,7 +59,40 @@
                 Console.WriteLine(num);
             }
         }
+        //--------------------------------------
 
+        public static bool EsSoloLetras(string data)
+        {
+            bool esSoloLetras = true;
+            foreach (char letra in data)
+            {
+                if (!char.IsLetter(letra))
+                {
+                    esSoloLetras = false;
+                    break;
+                }
+            }
+
+            return esSoloLetras;
+
+        }
+
+        //-----------------------------------------------
+
+        public static bool EsNumerica(string data)
+        {
+            bool esNumerica = true;
+            foreach (char digito in data)
+            {
+                if (!char.IsDigit(digito))
+                {
+                    esNumerica = false;
+                    break;
+                }
+            }
+
+            return esNumerica;
+        }
 
     }
 }

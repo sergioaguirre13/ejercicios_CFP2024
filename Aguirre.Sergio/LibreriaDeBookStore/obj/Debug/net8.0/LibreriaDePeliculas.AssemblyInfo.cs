@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LibreriaDePeliculas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+073065d775e0f83a91108c0d57c06188da5710fb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LibreriaDePeliculas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LibreriaDePeliculas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

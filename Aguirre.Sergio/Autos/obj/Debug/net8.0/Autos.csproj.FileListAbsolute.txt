@@ -1,0 +1,12 @@
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Autos\bin\Debug\net8.0\Autos.deps.json
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Autos\bin\Debug\net8.0\Autos.dll
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Autos\bin\Debug\net8.0\Autos.pdb
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Autos\obj\Debug\net8.0\Autos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Autos\obj\Debug\net8.0\Autos.AssemblyInfoInputs.cache
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Autos\obj\Debug\net8.0\Autos.AssemblyInfo.cs
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Autos\obj\Debug\net8.0\Autos.csproj.CoreCompileInputs.cache
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Autos\obj\Debug\net8.0\Autos.sourcelink.json
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Autos\obj\Debug\net8.0\Autos.dll
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Autos\obj\Debug\net8.0\refint\Autos.dll
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Autos\obj\Debug\net8.0\Autos.pdb
+C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\Autos\obj\Debug\net8.0\ref\Autos.dll
