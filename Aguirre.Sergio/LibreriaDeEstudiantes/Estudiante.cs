@@ -1,19 +1,37 @@
 ﻿using System.Runtime.CompilerServices;
+using System.Text;
 
 namespace LibreriaDeEstudiantes
 {
     public class Estudiante
     {
 
-        // atributos
-        string legajo;
-        string apellido;
-        string nombre;
-        int notaPrimerParcial;
-        int notaSegundoParcial;
-        Random random = new Random();
+        
+       private string legajo;
+       private string apellido;
+       private string nombre;
+       private int notaPrimerParcial;
+       private int notaSegundoParcial;
+       private static Random random;
 
-        // constructor de instancia
+        public string Legajo
+        {
+            set
+            {
+                this.legajo = value;
+            }
+            get
+            {
+                return this.legajo;
+            }
+        }
+
+
+
+        static Estudiante()
+        {
+            Estudiante.random = new Random();
+        }
 
         public Estudiante(string nombre, string apellido, string legajo)
         {
@@ -22,45 +40,46 @@ namespace LibreriaDeEstudiantes
             this.legajo = legajo;
         }
 
-        // metodos
+       
 
-        public void SetNotaPrimerParcial(int nota)
+        public void SetNotaPrimerParcial(int primerNota)
         {
-            this.notaPrimerParcial = nota;
+            this.notaPrimerParcial = primerNota;
         }
 
-        public void SetNotaSegundoParcial(int nota)
+        public void SetNotaSegundoParcial(int segundaNota)
         {
-            this.notaSegundoParcial = nota;
+            this.notaSegundoParcial = segundaNota;
         }
 
-        private float CalcularPromedio()
+        private double CalcularPromedio()
         {
-            float promedio = notaPrimerParcial + notaSegundoParcial;
-            promedio = promedio / 2;
-
-            return promedio;
+            return ((double)notaPrimerParcial + notaSegundoParcial) / 2;
         }
 
         public double CalcularNotaFinal()
         {
+            double notaFinal = -1;
+
             if (notaPrimerParcial >= 4 && notaSegundoParcial >= 4)
             {
-                double notaFinal = random.Next(6, 10);
-                return notaFinal;
+                notaFinal = random.Next(6, 10);
             }
-            else
-            {
-                return -1;
-            }
+            
+
+            return notaFinal;
         }
 
 
-        //  STRINGBUILDER
         public string Mostrar()
         {
             if (CalcularNotaFinal() == -1)
             {
+                //StringBuilder sb = new StringBuilder();
+
+                //sb.AppendLine($"Nombre {this.nombre} - Apellido: {this.apellido}");
+
+
                 return @$"  
                 Nombre: {nombre}
                 Apellido: {apellido}
@@ -79,6 +98,7 @@ namespace LibreriaDeEstudiantes
                 Nota 1° parcial {notaPrimerParcial}
                 Nota 2° parcial {notaSegundoParcial}
                 promedio: {CalcularPromedio()}
+                Nota FINAL {CalcularNotaFinal()}
                    ALUMNO APROBADO           ";
             }
            
