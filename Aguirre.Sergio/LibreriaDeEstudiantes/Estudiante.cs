@@ -6,23 +6,61 @@ namespace LibreriaDeEstudiantes
     public class Estudiante
     {
 
-        
-       private string legajo;
-       private string apellido;
-       private string nombre;
-       private int notaPrimerParcial;
-       private int notaSegundoParcial;
-       private static Random random;
 
-        public string Legajo
-        {
+        private string legajo;
+        private string apellido;
+        private string nombre;
+        private int notaPrimerParcial;
+        private int notaSegundoParcial;
+        private static Random random;
+
+        public string Legajo { get => legajo; set => legajo = value; }
+        public string Apellido { get => apellido; set => apellido = value; }
+        public string Nombre { get => nombre; set => nombre = value; }
+        public int NotaPrimerParcial {
+
+            get => notaPrimerParcial;
+
             set
             {
-                this.legajo = value;
+                if (value >= 0 && value <= 10)
+                {
+                    notaPrimerParcial = value;
+                }
+                else
+                {
+                    notaPrimerParcial = 0;
+                }
             }
+        }
+        public int NotaSegundoParcial {
+
+            get => notaSegundoParcial;
+
+            set
+            {
+                if (value >= 0 && value <= 10)
+                {
+                    notaSegundoParcial = value;
+                }
+                else
+                {
+                    notaSegundoParcial = 0;
+                }
+            }
+        }
+        public double NotaFinal
+        {
             get
             {
-                return this.legajo;
+                return CalcularNotaFinal();
+            }
+        }
+        public double Promedio
+        {
+            get
+            {
+                return CalcularPromedio();
             }
         }
 
@@ -35,37 +73,37 @@ namespace LibreriaDeEstudiantes
 
         public Estudiante(string nombre, string apellido, string legajo)
         {
-            this.nombre = nombre;
-            this.apellido = apellido;
-            this.legajo = legajo;
+            this.Nombre = nombre;
+            this.Apellido = apellido;
+            this.Legajo = legajo;
         }
 
-       
+
 
         public void SetNotaPrimerParcial(int primerNota)
         {
-            this.notaPrimerParcial = primerNota;
+            this.NotaPrimerParcial = primerNota;
         }
 
         public void SetNotaSegundoParcial(int segundaNota)
         {
-            this.notaSegundoParcial = segundaNota;
+            this.NotaSegundoParcial = segundaNota;
         }
 
         private double CalcularPromedio()
         {
-            return ((double)notaPrimerParcial + notaSegundoParcial) / 2;
+            return ((double)NotaPrimerParcial + NotaSegundoParcial) / 2;
         }
 
         public double CalcularNotaFinal()
         {
             double notaFinal = -1;
 
-            if (notaPrimerParcial >= 4 && notaSegundoParcial >= 4)
+            if (NotaPrimerParcial >= 4 && NotaSegundoParcial >= 4)
             {
                 notaFinal = random.Next(6, 10);
             }
-            
+
 
             return notaFinal;
         }
@@ -73,36 +111,41 @@ namespace LibreriaDeEstudiantes
 
         public string Mostrar()
         {
-            if (CalcularNotaFinal() == -1)
+           
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine($"Alumno: {this.apellido}, {this.nombre} - Leg N° {this.legajo} ");
+            sb.AppendLine($"1° Parcial: {this.notaPrimerParcial} - 2° Parcial: {this.notaSegundoParcial}");
+            sb.AppendLine($"Promedio: {this.CalcularPromedio}");
+            double notaFinal = this.CalcularNotaFinal();
+
+            if (notaFinal != -1)
             {
-                //StringBuilder sb = new StringBuilder();
-
-                //sb.AppendLine($"Nombre {this.nombre} - Apellido: {this.apellido}");
-
-
-                return @$"  
-                Nombre: {nombre}
-                Apellido: {apellido}
-                Legajo: {legajo}       
-                Nota 1° parcial {notaPrimerParcial}
-                Nota 2° parcial {notaSegundoParcial}
-                promedio: {CalcularPromedio()}
-                   ALUMNO DESAPROBADO          ";
+                sb.AppendLine($"Nota Final: {notaFinal}");
             }
             else
             {
-                return @$"
-                Nombre: {nombre}
-                Apellido: {apellido}
-                Legajo: {legajo}       
-                Nota 1° parcial {notaPrimerParcial}
-                Nota 2° parcial {notaSegundoParcial}
-                promedio: {CalcularPromedio()}
-                Nota FINAL {CalcularNotaFinal()}
-                   ALUMNO APROBADO           ";
+                sb.AppendLine("Alumno DESAPROVADO");
             }
-           
+
+            return sb.ToString();
+
+
         }
 
+         public static List<Estudiante> ListaEstudiantes()
+        {
+            return new List<Estudiante>()
+            {
+                new Estudiante("Jose", "Marino", "1001"),
+                new Estudiante("Pipo", "Cipollati", "1002"),
+                new Estudiante("Mirko", "Gutierrez", "1003"),
+                new Estudiante("Vera", "Alvarez", "1004"),
+            };
+        }
+
+        public override string? ToString()
+        {
+            return $"{apellido}, {nombre}";
+        }
     }
 }

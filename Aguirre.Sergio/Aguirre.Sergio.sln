@@ -133,9 +133,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimerFormulario", "PrimerF
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Librerias extras", "Librerias extras", "{2754E633-148F-4AF3-9722-0FAD8FCFC501}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "autoForms", "autoForms\autoForms.csproj", "{D5821978-885C-4D82-8446-9A21E782FB2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "autoForms", "autoForms\autoForms.csproj", "{D5821978-885C-4D82-8446-9A21E782FB2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autos", "Autos\Autos.csproj", "{750C893B-DAFE-459C-B1D7-1A1B62BBC486}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Autos", "Autos\Autos.csproj", "{750C893B-DAFE-459C-B1D7-1A1B62BBC486}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormEstudiante", "FormEstudiante\FormEstudiante.csproj", "{C9CFFF58-886E-4E15-A7DB-AC469D5DF7D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -371,6 +373,10 @@ Global
 		{750C893B-DAFE-459C-B1D7-1A1B62BBC486}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{750C893B-DAFE-459C-B1D7-1A1B62BBC486}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{750C893B-DAFE-459C-B1D7-1A1B62BBC486}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9CFFF58-886E-4E15-A7DB-AC469D5DF7D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9CFFF58-886E-4E15-A7DB-AC469D5DF7D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9CFFF58-886E-4E15-A7DB-AC469D5DF7D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9CFFF58-886E-4E15-A7DB-AC469D5DF7D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
