@@ -79,6 +79,7 @@
             btnNotas.TabIndex = 3;
             btnNotas.Text = "Evaluar";
             btnNotas.UseVisualStyleBackColor = true;
+            btnNotas.Click += btnNotas_Click;
             // 
             // btnMostrar
             // 

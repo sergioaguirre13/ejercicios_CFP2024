@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\",
+  "WorkspaceRootPath": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE0D51A9-5DD5-4FF9-8551-C4E31A4A7E15}|Testeo_Cine_Peliculas\\Testeo_Cine_Peliculas.csproj|c:\\users\\sergio\\desktop\\ejercicios_cfp2024\\aguirre.sergio\\testeo_cine_peliculas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE0D51A9-5DD5-4FF9-8551-C4E31A4A7E15}|Testeo_Cine_Peliculas\\Testeo_Cine_Peliculas.csproj|solutionrelative:testeo_cine_peliculas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9CFFF58-886E-4E15-A7DB-AC469D5DF7D5}|FormEstudiante\\FormEstudiante.csproj|c:\\users\\pc1\\onedrive\\documentos\\sergio\\ejercicios_cfp2024\\aguirre.sergio\\formestudiante\\forminicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9CFFF58-886E-4E15-A7DB-AC469D5DF7D5}|FormEstudiante\\FormEstudiante.csproj|solutionrelative:formestudiante\\forminicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B5E0AE3-02F8-4DE9-811D-58E2625B596A}|LibreriaDeBookStore\\LibreriaDePeliculas.csproj|c:\\users\\sergio\\desktop\\ejercicios_cfp2024\\aguirre.sergio\\libreriadebookstore\\cine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B5E0AE3-02F8-4DE9-811D-58E2625B596A}|LibreriaDeBookStore\\LibreriaDePeliculas.csproj|solutionrelative:libreriadebookstore\\cine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9CFFF58-886E-4E15-A7DB-AC469D5DF7D5}|FormEstudiante\\FormEstudiante.csproj|c:\\users\\pc1\\onedrive\\documentos\\sergio\\ejercicios_cfp2024\\aguirre.sergio\\formestudiante\\forminicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9CFFF58-886E-4E15-A7DB-AC469D5DF7D5}|FormEstudiante\\FormEstudiante.csproj|solutionrelative:formestudiante\\forminicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B5E0AE3-02F8-4DE9-811D-58E2625B596A}|LibreriaDeBookStore\\LibreriaDePeliculas.csproj|c:\\users\\sergio\\desktop\\ejercicios_cfp2024\\aguirre.sergio\\libreriadebookstore\\peliculas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B5E0AE3-02F8-4DE9-811D-58E2625B596A}|LibreriaDeBookStore\\LibreriaDePeliculas.csproj|solutionrelative:libreriadebookstore\\peliculas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9CFFF58-886E-4E15-A7DB-AC469D5DF7D5}|FormEstudiante\\FormEstudiante.csproj|c:\\users\\pc1\\onedrive\\documentos\\sergio\\ejercicios_cfp2024\\aguirre.sergio\\formestudiante\\formcargar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9CFFF58-886E-4E15-A7DB-AC469D5DF7D5}|FormEstudiante\\FormEstudiante.csproj|solutionrelative:formestudiante\\formcargar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +27,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\Testeo_Cine_Peliculas\\Program.cs",
-              "RelativeDocumentMoniker": "Testeo_Cine_Peliculas\\Program.cs",
-              "ToolTip": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\Testeo_Cine_Peliculas\\Program.cs",
-              "RelativeToolTip": "Testeo_Cine_Peliculas\\Program.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAAwDUAAAAaAAAA",
+              "Title": "FormInicial.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\FormEstudiante\\FormInicial.cs",
+              "RelativeDocumentMoniker": "FormEstudiante\\FormInicial.cs",
+              "ToolTip": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\FormEstudiante\\FormInicial.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormEstudiante\\FormInicial.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T13:09:47.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T12:59:53.312Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Cine.cs",
-              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\LibreriaDeBookStore\\Cine.cs",
-              "RelativeDocumentMoniker": "LibreriaDeBookStore\\Cine.cs",
-              "ToolTip": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\LibreriaDeBookStore\\Cine.cs",
-              "RelativeToolTip": "LibreriaDeBookStore\\Cine.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAIAAAA",
+              "Title": "FormInicial.cs",
+              "DocumentMoniker": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\FormEstudiante\\FormInicial.cs",
+              "RelativeDocumentMoniker": "FormEstudiante\\FormInicial.cs",
+              "ToolTip": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\FormEstudiante\\FormInicial.cs",
+              "RelativeToolTip": "FormEstudiante\\FormInicial.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAD0AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T12:56:46.98Z",
+              "WhenOpened": "2024-06-05T12:53:22.463Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Peliculas.cs",
-              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\LibreriaDeBookStore\\Peliculas.cs",
-              "RelativeDocumentMoniker": "LibreriaDeBookStore\\Peliculas.cs",
-              "ToolTip": "C:\\Users\\Sergio\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\LibreriaDeBookStore\\Peliculas.cs",
-              "RelativeToolTip": "LibreriaDeBookStore\\Peliculas.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAkAAAA",
+              "Title": "FormCargar.cs",
+              "DocumentMoniker": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\FormEstudiante\\FormCargar.cs",
+              "RelativeDocumentMoniker": "FormEstudiante\\FormCargar.cs",
+              "ToolTip": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\FormEstudiante\\FormCargar.cs",
+              "RelativeToolTip": "FormEstudiante\\FormCargar.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAUwCgAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T12:40:24.476Z",
+              "WhenOpened": "2024-06-05T12:53:15.954Z",
               "EditorCaption": ""
             }
           ]

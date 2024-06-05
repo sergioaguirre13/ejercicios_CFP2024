@@ -14,7 +14,7 @@ namespace FormEstudiante
 
         private void FormInicial_Load(object sender, EventArgs e)
         {
-          
+
             this.estudiantes = new List<Estudiante>();
             this.estudiantes = Estudiante.ListaEstudiantes();
 
@@ -28,11 +28,10 @@ namespace FormEstudiante
 
             Cargar.ShowDialog();
 
-            if (Cargar.DialogResult == DialogResult.OK)
+            if (Cargar.DialogResult == DialogResult.OK && Cargar.CargaEstudiante is not null)
             {
                 estudiantes.Add(Cargar.CargaEstudiante);
-                lstEstudiantes.DataSource = null;
-                lstEstudiantes.DataSource = estudiantes;
+                CargarEstudiantes();
             }
 
 
@@ -40,12 +39,31 @@ namespace FormEstudiante
 
         private void btnMostrar_Click(object sender, EventArgs e)
         {
-            this.dtvEstudiantes.DataSource = string.Empty;
-            this.dtvEstudiantes.DataSource = estudiantes;
-
-
+            CargarDataGrid();
         }
 
-        
+        private void CargarEstudiantes()
+        {
+            lstEstudiantes.DataSource = null;
+            lstEstudiantes.DataSource = estudiantes;
+        }
+
+        private void CargarDataGrid()
+        {
+            dtvEstudiantes.DataSource = null;
+            dtvEstudiantes.DataSource = estudiantes;
+        }
+
+        private void btnNotas_Click(object sender, EventArgs e)
+        {
+            Random rnd = new Random();
+
+            foreach (Estudiante item in estudiantes)
+            {
+                item.NotaPrimerParcial = rnd.Next(1, 10);
+                item.NotaSegundoParcial = rnd.Next(1, 10);
+
+            }
+        }
     }
 }

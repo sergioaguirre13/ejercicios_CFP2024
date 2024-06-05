@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArrayConFuncionEJ2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6066b41299cb5964a096fca626575e95686f857a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArrayConFuncionEJ2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArrayConFuncionEJ2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

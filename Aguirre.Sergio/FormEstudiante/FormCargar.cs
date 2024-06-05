@@ -30,10 +30,15 @@ namespace FormEstudiante
 
         private void btnAceptar_Click(object sender, EventArgs e)
         {
-            cargaEstudiante = new Estudiante(txtNombre.Text,txtApellido.Text,txtLegajo.Text);
+            cargaEstudiante = new Estudiante(txtNombre.Text, txtApellido.Text, txtLegajo.Text);
 
             DialogResult = DialogResult.OK;
 
+        }
+
+        private void btnCancelar_Click(object sender, EventArgs e)
+        {
+            DialogResult = DialogResult.Cancel;
         }
     }
 

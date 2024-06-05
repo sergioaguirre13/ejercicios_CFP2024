@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sergio PC\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\testeoCuentas\\testeoCuentas.csproj": {}
+    "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\testeoCuentas\\testeoCuentas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sergio PC\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\LibreriaDeCuentas\\LibreriaDeCuentas.csproj": {
+    "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\LibreriaDeCuentas\\LibreriaDeCuentas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sergio PC\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\LibreriaDeCuentas\\LibreriaDeCuentas.csproj",
+        "projectUniqueName": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\LibreriaDeCuentas\\LibreriaDeCuentas.csproj",
         "projectName": "LibreriaDeCuentas",
-        "projectPath": "C:\\Users\\Sergio PC\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\LibreriaDeCuentas\\LibreriaDeCuentas.csproj",
-        "packagesPath": "C:\\Users\\Sergio PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sergio PC\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\LibreriaDeCuentas\\obj\\",
+        "projectPath": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\LibreriaDeCuentas\\LibreriaDeCuentas.csproj",
+        "packagesPath": "C:\\Users\\PC1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\LibreriaDeCuentas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Sergio PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -38,6 +38,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -59,24 +64,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Sergio PC\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\testeoCuentas\\testeoCuentas.csproj": {
+    "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\testeoCuentas\\testeoCuentas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sergio PC\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\testeoCuentas\\testeoCuentas.csproj",
+        "projectUniqueName": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\testeoCuentas\\testeoCuentas.csproj",
         "projectName": "testeoCuentas",
-        "projectPath": "C:\\Users\\Sergio PC\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\testeoCuentas\\testeoCuentas.csproj",
-        "packagesPath": "C:\\Users\\Sergio PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sergio PC\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\testeoCuentas\\obj\\",
+        "projectPath": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\testeoCuentas\\testeoCuentas.csproj",
+        "packagesPath": "C:\\Users\\PC1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\testeoCuentas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Sergio PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -91,8 +96,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Sergio PC\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\LibreriaDeCuentas\\LibreriaDeCuentas.csproj": {
-                "projectPath": "C:\\Users\\Sergio PC\\Desktop\\ejercicios_CFP2024\\Aguirre.Sergio\\LibreriaDeCuentas\\LibreriaDeCuentas.csproj"
+              "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\LibreriaDeCuentas\\LibreriaDeCuentas.csproj": {
+                "projectPath": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\LibreriaDeCuentas\\LibreriaDeCuentas.csproj"
               }
             }
           }
@@ -101,6 +106,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -122,7 +132,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
