@@ -50,7 +50,7 @@
             // btnCargar
             // 
             btnCargar.Font = new Font("Segoe UI", 12F);
-            btnCargar.Location = new Point(69, 553);
+            btnCargar.Location = new Point(63, 543);
             btnCargar.Name = "btnCargar";
             btnCargar.Size = new Size(159, 62);
             btnCargar.TabIndex = 2;
@@ -70,9 +70,10 @@
             // 
             // btnAgregarMateria
             // 
-            btnAgregarMateria.Location = new Point(346, 569);
+            btnAgregarMateria.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            btnAgregarMateria.Location = new Point(316, 543);
             btnAgregarMateria.Name = "btnAgregarMateria";
-            btnAgregarMateria.Size = new Size(153, 34);
+            btnAgregarMateria.Size = new Size(159, 62);
             btnAgregarMateria.TabIndex = 6;
             btnAgregarMateria.Text = "Agregar Materia";
             btnAgregarMateria.UseVisualStyleBackColor = true;

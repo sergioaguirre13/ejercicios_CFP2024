@@ -30,6 +30,9 @@
         }
       },
       "MisClases/1.0.0": {
+        "dependencies": {
+          "LibreriaDeEstudiantes": "1.0.0"
+        },
         "runtime": {
           "MisClases.dll": {}
         }

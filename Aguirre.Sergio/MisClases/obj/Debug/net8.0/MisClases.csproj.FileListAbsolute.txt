@@ -10,3 +10,19 @@ C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\MisClases\obj\D
 C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\MisClases\obj\Debug\net8.0\refint\MisClases.dll
 C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\MisClases\obj\Debug\net8.0\MisClases.pdb
 C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\MisClases\obj\Debug\net8.0\ref\MisClases.dll
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\MisClases\bin\Debug\net8.0\MisClases.deps.json
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\MisClases\bin\Debug\net8.0\MisClases.dll
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\MisClases\bin\Debug\net8.0\MisClases.pdb
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\MisClases\bin\Debug\net8.0\LibreriaDeEstudiantes.dll
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\MisClases\bin\Debug\net8.0\LibreriaDeEstudiantes.pdb
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\MisClases\obj\Debug\net8.0\MisClases.csproj.AssemblyReference.cache
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\MisClases\obj\Debug\net8.0\MisClases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\MisClases\obj\Debug\net8.0\MisClases.AssemblyInfoInputs.cache
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\MisClases\obj\Debug\net8.0\MisClases.AssemblyInfo.cs
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\MisClases\obj\Debug\net8.0\MisClases.csproj.CoreCompileInputs.cache
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\MisClases\obj\Debug\net8.0\MisClases.sourcelink.json
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\MisClases\obj\Debug\net8.0\MisClases.csproj.Up2Date
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\MisClases\obj\Debug\net8.0\MisClases.dll
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\MisClases\obj\Debug\net8.0\refint\MisClases.dll
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\MisClases\obj\Debug\net8.0\MisClases.pdb
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\MisClases\obj\Debug\net8.0\ref\MisClases.dll

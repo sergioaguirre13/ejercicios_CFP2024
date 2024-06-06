@@ -13,7 +13,7 @@ namespace FormEstudiante
 {
     public partial class FormAltaMateria : Form
     {
-        private Materia miMateria;
+        public Materia miMateria;
         public FormAltaMateria()
         {
             InitializeComponent();
@@ -21,15 +21,17 @@ namespace FormEstudiante
 
         private void btnAceptar_Click(object sender, EventArgs e)
         {
-            if (string.IsNullOrEmpty(txtNombreMateria.Text))
-            {
-                this.miMateria = new Materia(txtNombreMateria.Text);
-                this.DialogResult = DialogResult.OK;
-            }
-            else
-            {
-                MessageBox.Show("Debe ingresar un nombre");
-            }
+            //if (!string.IsNullOrEmpty(txtNombreMateria.Text))
+            //{
+            //    this.miMateria = new Materia(txtNombreMateria.Text);
+            //    this.DialogResult = DialogResult.OK;
+            //}
+            //else
+            //{
+            //    MessageBox.Show("Debe ingresar un nombre");
+            //}
+            this.miMateria = new Materia(txtNombreMateria.Text);
+            this.DialogResult = DialogResult.OK;
         }
 
         private void btnCancelar_Click(object sender, EventArgs e)

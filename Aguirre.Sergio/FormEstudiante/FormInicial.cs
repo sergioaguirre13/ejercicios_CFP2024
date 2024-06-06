@@ -22,7 +22,7 @@ namespace FormEstudiante
             this.materias = new List<Materia>();
 
             this.lstEstudiantes.DataSource = estudiantes;
-
+            this.lstMaterias.DataSource = materias;
         }
 
         private void btnCargar_Click(object sender, EventArgs e)
@@ -36,14 +36,21 @@ namespace FormEstudiante
                 estudiantes.Add(Cargar.CargaEstudiante);
                 CargarEstudiantes();
             }
+        }
 
+        private void btnAgregarMateria_Click(object sender, EventArgs e)
+        {
+            FormAltaMateria formAlta = new FormAltaMateria();
+            formAlta.ShowDialog();
+
+            if (/*formAlta is not null &&*/ DialogResult == DialogResult.OK)
+            {
+                materias.Add(formAlta.MiMateria);
+                CargarMaterias();
+            }
 
         }
 
-        //private void btnMostrar_Click(object sender, EventArgs e)
-        //{
-        //    CargarDataGrid();
-        //}
 
         private void CargarEstudiantes()
         {
@@ -56,11 +63,7 @@ namespace FormEstudiante
             lstMaterias.DataSource = materias;
         }
 
-        //private void CargarDataGrid()
-        //{
-        //    dtvEstudiantes.DataSource = null;
-        //    dtvEstudiantes.DataSource = estudiantes;
-        //}
+       
 
         private void btnNotas_Click(object sender, EventArgs e)
         {
@@ -74,17 +77,6 @@ namespace FormEstudiante
             }
         }
 
-        private void btnAgregarMateria_Click(object sender, EventArgs e)
-        {
-            FormAltaMateria formAlta = new FormAltaMateria();
-            formAlta.ShowDialog();
-
-            if (formAlta is not null && DialogResult == DialogResult.OK)
-            {
-                materias.Add(formAlta.MiMateria);
-                CargarMaterias();
-            } 
-            
-        }
+      
     }
 }
