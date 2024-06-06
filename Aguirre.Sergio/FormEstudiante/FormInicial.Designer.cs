@@ -29,25 +29,13 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormInicial));
-            dtvEstudiantes = new DataGridView();
             lstEstudiantes = new ListBox();
             btnCargar = new Button();
-            btnNotas = new Button();
-            btnMostrar = new Button();
             pictureBox1 = new PictureBox();
-            ((System.ComponentModel.ISupportInitialize)dtvEstudiantes).BeginInit();
+            btnAgregarMateria = new Button();
+            lstMaterias = new ListBox();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
-            // 
-            // dtvEstudiantes
-            // 
-            dtvEstudiantes.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
-            dtvEstudiantes.BackgroundColor = SystemColors.ActiveCaption;
-            dtvEstudiantes.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dtvEstudiantes.Location = new Point(320, 221);
-            dtvEstudiantes.Name = "dtvEstudiantes";
-            dtvEstudiantes.Size = new Size(818, 304);
-            dtvEstudiantes.TabIndex = 0;
             // 
             // lstEstudiantes
             // 
@@ -62,35 +50,13 @@
             // btnCargar
             // 
             btnCargar.Font = new Font("Segoe UI", 12F);
-            btnCargar.Location = new Point(116, 570);
+            btnCargar.Location = new Point(69, 553);
             btnCargar.Name = "btnCargar";
-            btnCargar.Size = new Size(84, 34);
+            btnCargar.Size = new Size(159, 62);
             btnCargar.TabIndex = 2;
-            btnCargar.Text = "Cargar";
+            btnCargar.Text = "Agregar estudiante";
             btnCargar.UseVisualStyleBackColor = true;
             btnCargar.Click += btnCargar_Click;
-            // 
-            // btnNotas
-            // 
-            btnNotas.Font = new Font("Segoe UI", 12F);
-            btnNotas.Location = new Point(503, 570);
-            btnNotas.Name = "btnNotas";
-            btnNotas.Size = new Size(84, 34);
-            btnNotas.TabIndex = 3;
-            btnNotas.Text = "Evaluar";
-            btnNotas.UseVisualStyleBackColor = true;
-            btnNotas.Click += btnNotas_Click;
-            // 
-            // btnMostrar
-            // 
-            btnMostrar.Font = new Font("Segoe UI", 12F);
-            btnMostrar.Location = new Point(844, 569);
-            btnMostrar.Name = "btnMostrar";
-            btnMostrar.Size = new Size(83, 35);
-            btnMostrar.TabIndex = 4;
-            btnMostrar.Text = "Mostrar";
-            btnMostrar.UseVisualStyleBackColor = true;
-            btnMostrar.Click += btnMostrar_Click;
             // 
             // pictureBox1
             // 
@@ -102,33 +68,49 @@
             pictureBox1.TabIndex = 5;
             pictureBox1.TabStop = false;
             // 
+            // btnAgregarMateria
+            // 
+            btnAgregarMateria.Location = new Point(346, 569);
+            btnAgregarMateria.Name = "btnAgregarMateria";
+            btnAgregarMateria.Size = new Size(153, 34);
+            btnAgregarMateria.TabIndex = 6;
+            btnAgregarMateria.Text = "Agregar Materia";
+            btnAgregarMateria.UseVisualStyleBackColor = true;
+            btnAgregarMateria.Click += btnAgregarMateria_Click;
+            // 
+            // lstMaterias
+            // 
+            lstMaterias.BackColor = Color.LightSteelBlue;
+            lstMaterias.FormattingEnabled = true;
+            lstMaterias.ItemHeight = 15;
+            lstMaterias.Location = new Point(282, 221);
+            lstMaterias.Name = "lstMaterias";
+            lstMaterias.Size = new Size(217, 304);
+            lstMaterias.TabIndex = 7;
+            // 
             // FormInicial
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.CornflowerBlue;
             ClientSize = new Size(1175, 667);
+            Controls.Add(lstMaterias);
+            Controls.Add(btnAgregarMateria);
             Controls.Add(pictureBox1);
-            Controls.Add(btnMostrar);
-            Controls.Add(btnNotas);
             Controls.Add(btnCargar);
             Controls.Add(lstEstudiantes);
-            Controls.Add(dtvEstudiantes);
             Name = "FormInicial";
             Text = "Form1";
             Load += FormInicial_Load;
-            ((System.ComponentModel.ISupportInitialize)dtvEstudiantes).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
         }
 
         #endregion
-
-        private DataGridView dtvEstudiantes;
         private ListBox lstEstudiantes;
         private Button btnCargar;
-        private Button btnNotas;
-        private Button btnMostrar;
         private PictureBox pictureBox1;
+        private Button btnAgregarMateria;
+        private ListBox lstMaterias;
     }
 }

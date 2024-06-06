@@ -1,4 +1,5 @@
 using LibreriaDeEstudiantes;
+using MisClases;
 
 namespace FormEstudiante
 {
@@ -7,6 +8,7 @@ namespace FormEstudiante
     {
 
         private List<Estudiante> estudiantes;
+        private List<Materia> materias;
         public FormInicial()
         {
             InitializeComponent();
@@ -17,6 +19,7 @@ namespace FormEstudiante
 
             this.estudiantes = new List<Estudiante>();
             this.estudiantes = Estudiante.ListaEstudiantes();
+            this.materias = new List<Materia>();
 
             this.lstEstudiantes.DataSource = estudiantes;
 
@@ -28,7 +31,7 @@ namespace FormEstudiante
 
             Cargar.ShowDialog();
 
-            if (Cargar.DialogResult == DialogResult.OK && Cargar.CargaEstudiante is not null)
+            if (Cargar is not null && Cargar.DialogResult == DialogResult.OK)
             {
                 estudiantes.Add(Cargar.CargaEstudiante);
                 CargarEstudiantes();
@@ -37,22 +40,27 @@ namespace FormEstudiante
 
         }
 
-        private void btnMostrar_Click(object sender, EventArgs e)
-        {
-            CargarDataGrid();
-        }
+        //private void btnMostrar_Click(object sender, EventArgs e)
+        //{
+        //    CargarDataGrid();
+        //}
 
         private void CargarEstudiantes()
         {
             lstEstudiantes.DataSource = null;
             lstEstudiantes.DataSource = estudiantes;
         }
-
-        private void CargarDataGrid()
+        private void CargarMaterias()
         {
-            dtvEstudiantes.DataSource = null;
-            dtvEstudiantes.DataSource = estudiantes;
+            lstMaterias.DataSource = null;
+            lstMaterias.DataSource = materias;
         }
+
+        //private void CargarDataGrid()
+        //{
+        //    dtvEstudiantes.DataSource = null;
+        //    dtvEstudiantes.DataSource = estudiantes;
+        //}
 
         private void btnNotas_Click(object sender, EventArgs e)
         {
@@ -60,10 +68,23 @@ namespace FormEstudiante
 
             foreach (Estudiante item in estudiantes)
             {
-                item.NotaPrimerParcial = rnd.Next(1, 10);
-                item.NotaSegundoParcial = rnd.Next(1, 10);
+                //item.NotaPrimerParcial = rnd.Next(1, 10);
+                //item.NotaSegundoParcial = rnd.Next(1, 10);
 
             }
+        }
+
+        private void btnAgregarMateria_Click(object sender, EventArgs e)
+        {
+            FormAltaMateria formAlta = new FormAltaMateria();
+            formAlta.ShowDialog();
+
+            if (formAlta is not null && DialogResult == DialogResult.OK)
+            {
+                materias.Add(formAlta.MiMateria);
+                CargarMaterias();
+            } 
+            
         }
     }
 }

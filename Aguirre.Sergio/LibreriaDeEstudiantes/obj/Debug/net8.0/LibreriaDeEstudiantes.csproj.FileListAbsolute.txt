@@ -22,3 +22,15 @@ C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\Librer
 C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeEstudiantes\obj\Debug\net8.0\refint\LibreriaDeEstudiantes.dll
 C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeEstudiantes\obj\Debug\net8.0\LibreriaDeEstudiantes.pdb
 C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeEstudiantes\obj\Debug\net8.0\ref\LibreriaDeEstudiantes.dll
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeEstudiantes\bin\Debug\net8.0\LibreriaDeEstudiantes.deps.json
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeEstudiantes\bin\Debug\net8.0\LibreriaDeEstudiantes.dll
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeEstudiantes\bin\Debug\net8.0\LibreriaDeEstudiantes.pdb
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeEstudiantes\obj\Debug\net8.0\LibreriaDeEstudiantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeEstudiantes\obj\Debug\net8.0\LibreriaDeEstudiantes.AssemblyInfoInputs.cache
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeEstudiantes\obj\Debug\net8.0\LibreriaDeEstudiantes.AssemblyInfo.cs
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeEstudiantes\obj\Debug\net8.0\LibreriaDeEstudiantes.csproj.CoreCompileInputs.cache
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeEstudiantes\obj\Debug\net8.0\LibreriaDeEstudiantes.sourcelink.json
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeEstudiantes\obj\Debug\net8.0\LibreriaDeEstudiantes.dll
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeEstudiantes\obj\Debug\net8.0\refint\LibreriaDeEstudiantes.dll
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeEstudiantes\obj\Debug\net8.0\LibreriaDeEstudiantes.pdb
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeEstudiantes\obj\Debug\net8.0\ref\LibreriaDeEstudiantes.dll

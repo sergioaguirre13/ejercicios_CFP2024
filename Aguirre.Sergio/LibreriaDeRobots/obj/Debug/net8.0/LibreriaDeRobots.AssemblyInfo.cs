@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LibreriaDeRobots")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6066b41299cb5964a096fca626575e95686f857a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LibreriaDeRobots")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LibreriaDeRobots")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

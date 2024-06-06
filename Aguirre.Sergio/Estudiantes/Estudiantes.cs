@@ -17,17 +17,17 @@ namespace Estudiantes
 
             }
 
-            foreach (Estudiante a in listaEstudiantes)
-            {
-                a.SetNotaPrimerParcial(rand.Next(1, 10));
-                a.SetNotaSegundoParcial(rand.Next(1, 10));
-            }
+            //foreach (Estudiante a in listaEstudiantes)
+            //{
+            //    a.SetNotaPrimerParcial(rand.Next(1, 10));
+            //    a.SetNotaSegundoParcial(rand.Next(1, 10));
+            //}
 
 
-            foreach (Estudiante item in listaEstudiantes)
-            {
-                Console.WriteLine(item.Mostrar());
-            }
+            //foreach (Estudiante item in listaEstudiantes)
+            //{
+            //    Console.WriteLine(item.Mostrar());
+            //}
 
             //Estudiante estudiante1 = new Estudiante("Chicho","Serna","A01");
             //Estudiante estudiante2 = new Estudiante("Pipo", "Gorosito", "A02");

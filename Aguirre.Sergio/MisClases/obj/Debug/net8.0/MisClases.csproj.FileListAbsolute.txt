@@ -1,0 +1,12 @@
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\MisClases\bin\Debug\net8.0\MisClases.deps.json
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\MisClases\bin\Debug\net8.0\MisClases.dll
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\MisClases\bin\Debug\net8.0\MisClases.pdb
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\MisClases\obj\Debug\net8.0\MisClases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\MisClases\obj\Debug\net8.0\MisClases.AssemblyInfoInputs.cache
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\MisClases\obj\Debug\net8.0\MisClases.AssemblyInfo.cs
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\MisClases\obj\Debug\net8.0\MisClases.csproj.CoreCompileInputs.cache
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\MisClases\obj\Debug\net8.0\MisClases.sourcelink.json
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\MisClases\obj\Debug\net8.0\MisClases.dll
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\MisClases\obj\Debug\net8.0\refint\MisClases.dll
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\MisClases\obj\Debug\net8.0\MisClases.pdb
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\MisClases\obj\Debug\net8.0\ref\MisClases.dll

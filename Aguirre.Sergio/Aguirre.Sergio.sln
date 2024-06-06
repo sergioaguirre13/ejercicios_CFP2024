@@ -141,6 +141,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FormEstudiante", "FormEstud
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Forms", "Forms", "{BB36636A-D60C-42E0-9CC1-3E0F887C9F5F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MisClases", "MisClases\MisClases.csproj", "{CF9D763C-466E-4654-8F2E-5B78E984C43D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -379,6 +381,10 @@ Global
 		{C9CFFF58-886E-4E15-A7DB-AC469D5DF7D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9CFFF58-886E-4E15-A7DB-AC469D5DF7D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9CFFF58-886E-4E15-A7DB-AC469D5DF7D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF9D763C-466E-4654-8F2E-5B78E984C43D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF9D763C-466E-4654-8F2E-5B78E984C43D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF9D763C-466E-4654-8F2E-5B78E984C43D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF9D763C-466E-4654-8F2E-5B78E984C43D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

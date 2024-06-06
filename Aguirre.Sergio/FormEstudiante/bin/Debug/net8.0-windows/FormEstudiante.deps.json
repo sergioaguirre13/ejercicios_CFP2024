@@ -9,7 +9,8 @@
       "FormEstudiante/1.0.0": {
         "dependencies": {
           "Estudiantes": "1.0.0",
-          "LibreriaDeEstudiantes": "1.0.0"
+          "LibreriaDeEstudiantes": "1.0.0",
+          "MisClases": "1.0.0"
         },
         "runtime": {
           "FormEstudiante.dll": {}
@@ -27,6 +28,11 @@
         "runtime": {
           "LibreriaDeEstudiantes.dll": {}
         }
+      },
+      "MisClases/1.0.0": {
+        "runtime": {
+          "MisClases.dll": {}
+        }
       }
     }
   },
@@ -42,6 +48,11 @@
       "sha512": ""
     },
     "LibreriaDeEstudiantes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MisClases/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
