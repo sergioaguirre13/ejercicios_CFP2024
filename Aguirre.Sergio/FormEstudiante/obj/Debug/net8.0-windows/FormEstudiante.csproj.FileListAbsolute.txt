@@ -88,3 +88,4 @@ C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\FormEstudiante\
 C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\FormEstudiante\bin\Debug\net8.0-windows\MisClases.dll
 C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\FormEstudiante\bin\Debug\net8.0-windows\MisClases.pdb
 C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\FormEstudiante\obj\Debug\net8.0-windows\FormEstudiante.FormAltaMateria.resources
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\FormEstudiante\obj\Debug\net8.0-windows\FormEstudiante.FormEstadoAcademico.resources

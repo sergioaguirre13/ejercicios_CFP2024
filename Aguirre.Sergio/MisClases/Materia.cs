@@ -34,10 +34,10 @@
 
         public Materia(string nombre)
         {
-            this.Nombre = nombre;
+            this.nombre = nombre;
         }
 
-        public int CalcularNotaFinal()
+        private int CalcularNotaFinal()
         {
             int nota = 0;
 
@@ -49,7 +49,7 @@
             return nota;
         }
 
-        public double CalcularPromedio()
+        private double CalcularPromedio()
         {
             return ((double)NotaPrimerParcial + NotaSegundoParcial) / 2;
         }

@@ -18,11 +18,10 @@ namespace FormEstudiante
         {
 
             this.estudiantes = new List<Estudiante>();
-            this.estudiantes = Estudiante.ListaEstudiantes();
             this.materias = new List<Materia>();
+            this.estudiantes = Estudiante.ListaEstudiantes();
 
             this.lstEstudiantes.DataSource = estudiantes;
-            this.lstMaterias.DataSource = materias;
         }
 
         private void btnCargar_Click(object sender, EventArgs e)
@@ -43,7 +42,7 @@ namespace FormEstudiante
             FormAltaMateria formAlta = new FormAltaMateria();
             formAlta.ShowDialog();
 
-            if (/*formAlta is not null &&*/ DialogResult == DialogResult.OK)
+            if (formAlta is not null && formAlta.DialogResult == DialogResult.OK)
             {
                 materias.Add(formAlta.MiMateria);
                 CargarMaterias();
@@ -63,7 +62,7 @@ namespace FormEstudiante
             lstMaterias.DataSource = materias;
         }
 
-       
+
 
         private void btnNotas_Click(object sender, EventArgs e)
         {
@@ -77,6 +76,17 @@ namespace FormEstudiante
             }
         }
 
-      
+        private void btnCrearEstadoAcademico_Click(object sender, EventArgs e)
+        {
+            Estudiante estudiante = estudiantes[0];
+            List<Materia> lista = materias;
+            string carrera = "Trayecto programación";
+
+            
+
+
+            FormEstadoAcademico formEstado = new FormEstadoAcademico(estudiante,lista,carrera);
+            formEstado.ShowDialog();
+        }
     }
 }
