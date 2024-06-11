@@ -121,6 +121,7 @@
             // 
             txtApellido.Location = new Point(85, 91);
             txtApellido.Name = "txtApellido";
+            txtApellido.PlaceholderText = "Ingrese su apellido";
             txtApellido.Size = new Size(192, 23);
             txtApellido.TabIndex = 1;
             // 
@@ -128,6 +129,7 @@
             // 
             txtNombre.Location = new Point(85, 44);
             txtNombre.Name = "txtNombre";
+            txtNombre.PlaceholderText = "Ingrese su nombre";
             txtNombre.Size = new Size(192, 23);
             txtNombre.TabIndex = 0;
             // 
@@ -249,16 +251,17 @@
             // 
             // btnCancelar
             // 
-            btnCancelar.Location = new Point(420, 439);
+            btnCancelar.Location = new Point(362, 439);
             btnCancelar.Name = "btnCancelar";
             btnCancelar.Size = new Size(75, 23);
             btnCancelar.TabIndex = 5;
             btnCancelar.Text = "Cancelar";
             btnCancelar.UseVisualStyleBackColor = true;
+            btnCancelar.Click += btnCancelar_Click;
             // 
             // btnAceptar
             // 
-            btnAceptar.Location = new Point(546, 439);
+            btnAceptar.Location = new Point(547, 439);
             btnAceptar.Name = "btnAceptar";
             btnAceptar.Size = new Size(75, 23);
             btnAceptar.TabIndex = 6;

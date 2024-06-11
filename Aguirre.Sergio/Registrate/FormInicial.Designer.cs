@@ -35,10 +35,11 @@
             // 
             // dtgIngresantes
             // 
+            dtgIngresantes.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.AllCells;
             dtgIngresantes.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dtgIngresantes.Location = new Point(37, 45);
             dtgIngresantes.Name = "dtgIngresantes";
-            dtgIngresantes.Size = new Size(827, 299);
+            dtgIngresantes.Size = new Size(692, 299);
             dtgIngresantes.TabIndex = 0;
             // 
             // btnAgregar
@@ -55,7 +56,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(906, 476);
+            ClientSize = new Size(781, 446);
             Controls.Add(btnAgregar);
             Controls.Add(dtgIngresantes);
             Name = "Form1";

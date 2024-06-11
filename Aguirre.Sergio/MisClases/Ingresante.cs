@@ -36,6 +36,15 @@ namespace MisClases
             {
                 StringBuilder sb = new StringBuilder();
 
+                for (int i = 0; i < cursos.Count; i++)
+                {
+                    sb.Append(cursos[i]);
+
+                    if (i < cursos.Count - 1)
+                    {
+                        sb.Append(" - ");
+                    }
+                }
 
                 return sb.ToString(); 
             }

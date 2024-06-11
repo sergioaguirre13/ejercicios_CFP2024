@@ -13,6 +13,7 @@ namespace Registrate
         private void Form1_Load(object sender, EventArgs e)
         {
             ingresanteList= new List<Ingresante>();
+            ActualizarDtgIngresantes();
         }
         private void btnAgregar_Click(object sender, EventArgs e)
         {
@@ -21,9 +22,17 @@ namespace Registrate
 
             if (formRegistro.DialogResult == DialogResult.OK)
             {
-                ingresanteList.Add()
+                ingresanteList.Add(formRegistro.Ingresantes);
+                ActualizarDtgIngresantes();
             }
 
+        }
+
+
+        private void ActualizarDtgIngresantes()
+        {
+            dtgIngresantes.DataSource = null;
+            dtgIngresantes.DataSource = ingresanteList;
         }
 
         
