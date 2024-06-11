@@ -141,7 +141,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FormEstudiante", "FormEstud
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Forms", "Forms", "{BB36636A-D60C-42E0-9CC1-3E0F887C9F5F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MisClases", "MisClases\MisClases.csproj", "{CF9D763C-466E-4654-8F2E-5B78E984C43D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MisClases", "MisClases\MisClases.csproj", "{CF9D763C-466E-4654-8F2E-5B78E984C43D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Registrate", "Registrate\Registrate.csproj", "{31EA3F2E-B047-4B4B-9628-2D676EB0B81E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -385,6 +387,10 @@ Global
 		{CF9D763C-466E-4654-8F2E-5B78E984C43D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF9D763C-466E-4654-8F2E-5B78E984C43D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF9D763C-466E-4654-8F2E-5B78E984C43D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31EA3F2E-B047-4B4B-9628-2D676EB0B81E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31EA3F2E-B047-4B4B-9628-2D676EB0B81E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31EA3F2E-B047-4B4B-9628-2D676EB0B81E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31EA3F2E-B047-4B4B-9628-2D676EB0B81E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
