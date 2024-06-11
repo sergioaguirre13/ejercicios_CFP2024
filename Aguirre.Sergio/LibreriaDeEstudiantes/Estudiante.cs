@@ -16,10 +16,6 @@ namespace LibreriaDeEstudiantes
         public string Apellido { get => apellido; set => apellido = value; }
         public string Nombre { get => nombre; set => nombre = value; }
 
-
-
-        
-
         public Estudiante(string nombre, string apellido, string legajo)
         {
             this.Nombre = nombre;

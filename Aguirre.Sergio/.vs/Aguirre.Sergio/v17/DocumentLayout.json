@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C9CFFF58-886E-4E15-A7DB-AC469D5DF7D5}|FormEstudiante\\FormEstudiante.csproj|c:\\users\\pc1\\onedrive\\documentos\\sergio\\ejercicios_cfp2024\\aguirre.sergio\\formestudiante\\formestadoacademico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9CFFF58-886E-4E15-A7DB-AC469D5DF7D5}|FormEstudiante\\FormEstudiante.csproj|solutionrelative:formestudiante\\formestadoacademico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C9CFFF58-886E-4E15-A7DB-AC469D5DF7D5}|FormEstudiante\\FormEstudiante.csproj|c:\\users\\pc1\\onedrive\\documentos\\sergio\\ejercicios_cfp2024\\aguirre.sergio\\formestudiante\\forminicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C9CFFF58-886E-4E15-A7DB-AC469D5DF7D5}|FormEstudiante\\FormEstudiante.csproj|solutionrelative:formestudiante\\forminicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9CFFF58-886E-4E15-A7DB-AC469D5DF7D5}|FormEstudiante\\FormEstudiante.csproj|C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\formestudiante\\forminicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9CFFF58-886E-4E15-A7DB-AC469D5DF7D5}|FormEstudiante\\FormEstudiante.csproj|c:\\users\\pc1\\onedrive\\documentos\\sergio\\ejercicios_cfp2024\\aguirre.sergio\\formestudiante\\formestadoacademico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9CFFF58-886E-4E15-A7DB-AC469D5DF7D5}|FormEstudiante\\FormEstudiante.csproj|solutionrelative:formestudiante\\formestadoacademico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9D763C-466E-4654-8F2E-5B78E984C43D}|MisClases\\MisClases.csproj|c:\\users\\pc1\\onedrive\\documentos\\sergio\\ejercicios_cfp2024\\aguirre.sergio\\misclases\\estadoacademico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9D763C-466E-4654-8F2E-5B78E984C43D}|MisClases\\MisClases.csproj|solutionrelative:misclases\\estadoacademico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9CFFF58-886E-4E15-A7DB-AC469D5DF7D5}|FormEstudiante\\FormEstudiante.csproj|c:\\users\\pc1\\onedrive\\documentos\\sergio\\ejercicios_cfp2024\\aguirre.sergio\\formestudiante\\forminicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9CFFF58-886E-4E15-A7DB-AC469D5DF7D5}|FormEstudiante\\FormEstudiante.csproj|solutionrelative:formestudiante\\forminicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9CFFF58-886E-4E15-A7DB-AC469D5DF7D5}|FormEstudiante\\FormEstudiante.csproj|C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\formestudiante\\formcargar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9CFFF58-886E-4E15-A7DB-AC469D5DF7D5}|FormEstudiante\\FormEstudiante.csproj|solutionrelative:formestudiante\\formcargar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF9D763C-466E-4654-8F2E-5B78E984C43D}|MisClases\\MisClases.csproj|c:\\users\\pc1\\onedrive\\documentos\\sergio\\ejercicios_cfp2024\\aguirre.sergio\\misclases\\materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9D763C-466E-4654-8F2E-5B78E984C43D}|MisClases\\MisClases.csproj|solutionrelative:misclases\\materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3BC1FB-FCCB-4E5A-BF0F-920A70F0DC67}|LibreriaDeEstudiantes\\LibreriaDeEstudiantes.csproj|c:\\users\\pc1\\onedrive\\documentos\\sergio\\ejercicios_cfp2024\\aguirre.sergio\\libreriadeestudiantes\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E3BC1FB-FCCB-4E5A-BF0F-920A70F0DC67}|LibreriaDeEstudiantes\\LibreriaDeEstudiantes.csproj|solutionrelative:libreriadeestudiantes\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +38,99 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\LibreriaDeEstudiantes\\Estudiante.cs",
+              "RelativeDocumentMoniker": "LibreriaDeEstudiantes\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\LibreriaDeEstudiantes\\Estudiante.cs",
+              "RelativeToolTip": "LibreriaDeEstudiantes\\Estudiante.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T13:09:12.744Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Materia.cs",
+              "DocumentMoniker": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\MisClases\\Materia.cs",
+              "RelativeDocumentMoniker": "MisClases\\Materia.cs",
+              "ToolTip": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\MisClases\\Materia.cs",
+              "RelativeToolTip": "MisClases\\Materia.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwCQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T13:07:47.94Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EstadoAcademico.cs",
+              "DocumentMoniker": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\MisClases\\EstadoAcademico.cs",
+              "RelativeDocumentMoniker": "MisClases\\EstadoAcademico.cs",
+              "ToolTip": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\MisClases\\EstadoAcademico.cs",
+              "RelativeToolTip": "MisClases\\EstadoAcademico.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T13:13:13.218Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormInicial.cs",
+              "DocumentMoniker": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\FormEstudiante\\FormInicial.cs",
+              "RelativeDocumentMoniker": "FormEstudiante\\FormInicial.cs",
+              "ToolTip": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\FormEstudiante\\FormInicial.cs",
+              "RelativeToolTip": "FormEstudiante\\FormInicial.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAAFIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T15:12:10.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FormEstadoAcademico.cs",
+              "DocumentMoniker": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\FormEstudiante\\FormEstadoAcademico.cs",
+              "RelativeDocumentMoniker": "FormEstudiante\\FormEstadoAcademico.cs",
+              "ToolTip": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\FormEstudiante\\FormEstadoAcademico.cs",
+              "RelativeToolTip": "FormEstudiante\\FormEstadoAcademico.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAUwCAAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T14:49:27.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "FormInicial.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\FormEstudiante\\FormInicial.cs",
               "RelativeDocumentMoniker": "FormEstudiante\\FormInicial.cs",
               "ToolTip": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\FormEstudiante\\FormInicial.cs [Dise\u00F1o]",
               "RelativeToolTip": "FormEstudiante\\FormInicial.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T12:59:53.312Z",
+              "WhenOpened": "2024-06-07T15:10:32.675Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FormInicial.cs",
-              "DocumentMoniker": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\FormEstudiante\\FormInicial.cs",
-              "RelativeDocumentMoniker": "FormEstudiante\\FormInicial.cs",
-              "ToolTip": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\FormEstudiante\\FormInicial.cs",
-              "RelativeToolTip": "FormEstudiante\\FormInicial.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAAAD0AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T12:53:22.463Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FormCargar.cs",
-              "DocumentMoniker": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\FormEstudiante\\FormCargar.cs",
-              "RelativeDocumentMoniker": "FormEstudiante\\FormCargar.cs",
-              "ToolTip": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\FormEstudiante\\FormCargar.cs",
-              "RelativeToolTip": "FormEstudiante\\FormCargar.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAUwCgAAAAvAAAA",
+              "Title": "FormEstadoAcademico.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\FormEstudiante\\FormEstadoAcademico.cs",
+              "RelativeDocumentMoniker": "FormEstudiante\\FormEstadoAcademico.cs",
+              "ToolTip": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\FormEstudiante\\FormEstadoAcademico.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormEstudiante\\FormEstadoAcademico.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T12:53:15.954Z"
+              "WhenOpened": "2024-06-07T14:34:43.455Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

@@ -21,7 +21,8 @@ namespace FormEstudiante
 
         private void btnAceptar_Click(object sender, EventArgs e)
         {
-            if (string.IsNullOrEmpty(txtNombreMateria.Text))
+
+            if (!string.IsNullOrEmpty(txtNombreMateria.Text))
             {
                 this.miMateria = new Materia(txtNombreMateria.Text);
                 this.DialogResult = DialogResult.OK;
@@ -41,7 +42,7 @@ namespace FormEstudiante
         {
             get
             {
-                return miMateria;
+                return this.miMateria;
             }
         }
     }
