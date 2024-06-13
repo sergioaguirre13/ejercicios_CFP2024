@@ -26,3 +26,7 @@ C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\MisCla
 C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\MisClases\obj\Debug\net8.0\refint\MisClases.dll
 C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\MisClases\obj\Debug\net8.0\MisClases.pdb
 C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\MisClases\obj\Debug\net8.0\ref\MisClases.dll
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\MisClases\bin\Debug\net8.0\LibreriaDeEstudiantes.dll
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\MisClases\bin\Debug\net8.0\LibreriaDeEstudiantes.pdb
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\MisClases\obj\Debug\net8.0\MisClases.csproj.AssemblyReference.cache
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\MisClases\obj\Debug\net8.0\MisClases.csproj.CopyComplete

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FormsLapicera/1.0.0": {
+        "dependencies": {
+          "LibreriaDeLapiceras": "1.0.0"
+        },
+        "runtime": {
+          "FormsLapicera.dll": {}
+        }
+      },
+      "LibreriaDeLapiceras/1.0.0": {
+        "runtime": {
+          "LibreriaDeLapiceras.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FormsLapicera/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibreriaDeLapiceras/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

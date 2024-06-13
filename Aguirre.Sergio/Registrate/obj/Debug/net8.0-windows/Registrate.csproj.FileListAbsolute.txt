@@ -22,3 +22,27 @@ C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\Regist
 C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\Registrate\obj\Debug\net8.0-windows\Registrate.pdb
 C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\Registrate\obj\Debug\net8.0-windows\Registrate.genruntimeconfig.cache
 C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\Registrate\obj\Debug\net8.0-windows\ref\Registrate.dll
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\Registrate\bin\Debug\net8.0-windows\Registrate.exe
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\Registrate\bin\Debug\net8.0-windows\Registrate.deps.json
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\Registrate\bin\Debug\net8.0-windows\Registrate.runtimeconfig.json
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\Registrate\bin\Debug\net8.0-windows\Registrate.dll
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\Registrate\bin\Debug\net8.0-windows\Registrate.pdb
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\Registrate\bin\Debug\net8.0-windows\LibreriaDeEstudiantes.dll
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\Registrate\bin\Debug\net8.0-windows\MisClases.dll
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\Registrate\bin\Debug\net8.0-windows\MisClases.pdb
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\Registrate\bin\Debug\net8.0-windows\LibreriaDeEstudiantes.pdb
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\Registrate\obj\Debug\net8.0-windows\Registrate.csproj.AssemblyReference.cache
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\Registrate\obj\Debug\net8.0-windows\Registrate.Form1.resources
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\Registrate\obj\Debug\net8.0-windows\Registrate.FormRegistro.resources
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\Registrate\obj\Debug\net8.0-windows\Registrate.csproj.GenerateResource.cache
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\Registrate\obj\Debug\net8.0-windows\Registrate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\Registrate\obj\Debug\net8.0-windows\Registrate.AssemblyInfoInputs.cache
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\Registrate\obj\Debug\net8.0-windows\Registrate.AssemblyInfo.cs
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\Registrate\obj\Debug\net8.0-windows\Registrate.csproj.CoreCompileInputs.cache
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\Registrate\obj\Debug\net8.0-windows\Registrate.sourcelink.json
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\Registrate\obj\Debug\net8.0-windows\Registrate.csproj.CopyComplete
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\Registrate\obj\Debug\net8.0-windows\Registrate.dll
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\Registrate\obj\Debug\net8.0-windows\refint\Registrate.dll
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\Registrate\obj\Debug\net8.0-windows\Registrate.pdb
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\Registrate\obj\Debug\net8.0-windows\Registrate.genruntimeconfig.cache
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\Registrate\obj\Debug\net8.0-windows\ref\Registrate.dll

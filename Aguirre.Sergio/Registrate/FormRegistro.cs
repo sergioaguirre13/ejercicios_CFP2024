@@ -27,7 +27,7 @@ namespace Registrate
         {
             lstPais.DataSource = new List<string>() {
             "Argentina","Uruguay","Brazil","Chile","Perú","Colombia"
-            };
+            };  //traerla de afuera
         }
 
         private void btnAceptar_Click(object sender, EventArgs e)
