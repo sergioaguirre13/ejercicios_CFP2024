@@ -41,8 +41,8 @@ namespace MisClases
             if ((cuit.Length == 13) && (cantidadGuiones == 2))
             {
                 return true;
-
             }
+
              return false;
         }
 
@@ -52,12 +52,3 @@ namespace MisClases
         }
     }
 }
-/*Todos los atributos deben tener propiedades de lectura/escritura, salvo _cuentaBancaria que será de sólo lectura. 
- * Dicha clase, inicializará con su constructor, tanto el número de CUIT como el número de Cuenta Bancaria. 
- * También tendrá un método estático ValidarCUIT, que recibirá el CUIT a validar y devolverá  True‘ 
- * si el CUIT es válido o  ̳False‘ caso contrario. (Sólo se deberá validar que contenga 11 números y dos guiones, ##-########-#).
- Un método virtual GuardarEnDisco(), que mostrara la información del cliente. Diseñar la clase ClientePlus,
-que herede de Cliente, que posea el campo privado  ̳_puntos‘ (lectura/escritura), y que muestre los datos del cliente plus 
-
-En el método Main se deberán crear distintos tipos de clientes.
-*/
