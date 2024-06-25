@@ -19,3 +19,24 @@ C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\ConsoleClientes
 C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\ConsoleClientes\obj\Debug\net8.0\ConsoleClientes.pdb
 C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\ConsoleClientes\obj\Debug\net8.0\ConsoleClientes.genruntimeconfig.cache
 C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\ConsoleClientes\obj\Debug\net8.0\ref\ConsoleClientes.dll
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\ConsoleClientes\bin\Debug\net8.0\ConsoleClientes.exe
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\ConsoleClientes\bin\Debug\net8.0\ConsoleClientes.deps.json
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\ConsoleClientes\bin\Debug\net8.0\ConsoleClientes.runtimeconfig.json
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\ConsoleClientes\bin\Debug\net8.0\ConsoleClientes.dll
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\ConsoleClientes\bin\Debug\net8.0\ConsoleClientes.pdb
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\ConsoleClientes\bin\Debug\net8.0\LibreriaDeEstudiantes.dll
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\ConsoleClientes\bin\Debug\net8.0\MisClases.dll
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\ConsoleClientes\bin\Debug\net8.0\MisClases.pdb
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\ConsoleClientes\bin\Debug\net8.0\LibreriaDeEstudiantes.pdb
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\ConsoleClientes\obj\Debug\net8.0\ConsoleClientes.csproj.AssemblyReference.cache
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\ConsoleClientes\obj\Debug\net8.0\ConsoleClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\ConsoleClientes\obj\Debug\net8.0\ConsoleClientes.AssemblyInfoInputs.cache
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\ConsoleClientes\obj\Debug\net8.0\ConsoleClientes.AssemblyInfo.cs
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\ConsoleClientes\obj\Debug\net8.0\ConsoleClientes.csproj.CoreCompileInputs.cache
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\ConsoleClientes\obj\Debug\net8.0\ConsoleClientes.sourcelink.json
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\ConsoleClientes\obj\Debug\net8.0\ConsoleC.656B99E9.Up2Date
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\ConsoleClientes\obj\Debug\net8.0\ConsoleClientes.dll
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\ConsoleClientes\obj\Debug\net8.0\refint\ConsoleClientes.dll
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\ConsoleClientes\obj\Debug\net8.0\ConsoleClientes.pdb
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\ConsoleClientes\obj\Debug\net8.0\ConsoleClientes.genruntimeconfig.cache
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\ConsoleClientes\obj\Debug\net8.0\ref\ConsoleClientes.dll

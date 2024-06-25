@@ -19,6 +19,9 @@ namespace ConsoleClientes
             Console.WriteLine(cliente1.GuardarEnDisco());
             Console.WriteLine(clienteplus1.GuardarEnDisco());
 
+            Console.WriteLine(Cliente.ValidarCUIT(cliente1.Cuit));
+            Console.WriteLine(Cliente.ValidarCUIT(clienteplus1.Cuit));
+
         }
     }
 }

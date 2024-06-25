@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConsoleVehiculos/1.0.0": {
+        "dependencies": {
+          "MisClases": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleVehiculos.dll": {}
+        }
+      },
+      "LibreriaDeEstudiantes/1.0.0": {
+        "runtime": {
+          "LibreriaDeEstudiantes.dll": {}
+        }
+      },
+      "MisClases/1.0.0": {
+        "dependencies": {
+          "LibreriaDeEstudiantes": "1.0.0"
+        },
+        "runtime": {
+          "MisClases.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleVehiculos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibreriaDeEstudiantes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MisClases/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -24,7 +24,7 @@ namespace MisClases
 
         public virtual string MostrarInfo()
         {
-            return $"Marca: {marca} - Modelo: protected{modelo}";
+            return $"Marca: {marca} - Modelo: {modelo}";
         }
 
     }
