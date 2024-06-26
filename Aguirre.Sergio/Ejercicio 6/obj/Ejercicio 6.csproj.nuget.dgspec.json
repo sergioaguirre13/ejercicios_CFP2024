@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\Ejercicio 6\\Ejercicio 6.csproj": {}
+    "C:\\Users\\Sergio PC\\Desktop\\poo\\ejercicios_CFP2024\\Aguirre.Sergio\\Ejercicio 6\\Ejercicio 6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\Ejercicio 6\\Ejercicio 6.csproj": {
+    "C:\\Users\\Sergio PC\\Desktop\\poo\\ejercicios_CFP2024\\Aguirre.Sergio\\Ejercicio 6\\Ejercicio 6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\Ejercicio 6\\Ejercicio 6.csproj",
+        "projectUniqueName": "C:\\Users\\Sergio PC\\Desktop\\poo\\ejercicios_CFP2024\\Aguirre.Sergio\\Ejercicio 6\\Ejercicio 6.csproj",
         "projectName": "Ejercicio 6",
-        "projectPath": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\Ejercicio 6\\Ejercicio 6.csproj",
-        "packagesPath": "C:\\Users\\PC1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\Ejercicio 6\\obj\\",
+        "projectPath": "C:\\Users\\Sergio PC\\Desktop\\poo\\ejercicios_CFP2024\\Aguirre.Sergio\\Ejercicio 6\\Ejercicio 6.csproj",
+        "packagesPath": "C:\\Users\\Sergio PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sergio PC\\Desktop\\poo\\ejercicios_CFP2024\\Aguirre.Sergio\\Ejercicio 6\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\PC1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sergio PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -38,11 +38,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -64,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

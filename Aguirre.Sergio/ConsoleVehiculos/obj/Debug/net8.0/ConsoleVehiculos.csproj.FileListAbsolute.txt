@@ -19,3 +19,24 @@ C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\Consol
 C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\ConsoleVehiculos\obj\Debug\net8.0\ConsoleVehiculos.pdb
 C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\ConsoleVehiculos\obj\Debug\net8.0\ConsoleVehiculos.genruntimeconfig.cache
 C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\ConsoleVehiculos\obj\Debug\net8.0\ref\ConsoleVehiculos.dll
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\ConsoleVehiculos\bin\Debug\net8.0\ConsoleVehiculos.exe
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\ConsoleVehiculos\bin\Debug\net8.0\ConsoleVehiculos.deps.json
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\ConsoleVehiculos\bin\Debug\net8.0\ConsoleVehiculos.runtimeconfig.json
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\ConsoleVehiculos\bin\Debug\net8.0\ConsoleVehiculos.dll
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\ConsoleVehiculos\bin\Debug\net8.0\ConsoleVehiculos.pdb
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\ConsoleVehiculos\bin\Debug\net8.0\LibreriaDeEstudiantes.dll
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\ConsoleVehiculos\bin\Debug\net8.0\MisClases.dll
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\ConsoleVehiculos\bin\Debug\net8.0\MisClases.pdb
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\ConsoleVehiculos\bin\Debug\net8.0\LibreriaDeEstudiantes.pdb
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\ConsoleVehiculos\obj\Debug\net8.0\ConsoleVehiculos.csproj.AssemblyReference.cache
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\ConsoleVehiculos\obj\Debug\net8.0\ConsoleVehiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\ConsoleVehiculos\obj\Debug\net8.0\ConsoleVehiculos.AssemblyInfoInputs.cache
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\ConsoleVehiculos\obj\Debug\net8.0\ConsoleVehiculos.AssemblyInfo.cs
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\ConsoleVehiculos\obj\Debug\net8.0\ConsoleVehiculos.csproj.CoreCompileInputs.cache
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\ConsoleVehiculos\obj\Debug\net8.0\ConsoleVehiculos.sourcelink.json
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\ConsoleVehiculos\obj\Debug\net8.0\ConsoleVehiculos.csproj.CopyComplete
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\ConsoleVehiculos\obj\Debug\net8.0\ConsoleVehiculos.dll
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\ConsoleVehiculos\obj\Debug\net8.0\refint\ConsoleVehiculos.dll
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\ConsoleVehiculos\obj\Debug\net8.0\ConsoleVehiculos.pdb
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\ConsoleVehiculos\obj\Debug\net8.0\ConsoleVehiculos.genruntimeconfig.cache
+C:\Users\Sergio PC\Desktop\poo\ejercicios_CFP2024\Aguirre.Sergio\ConsoleVehiculos\obj\Debug\net8.0\ref\ConsoleVehiculos.dll
