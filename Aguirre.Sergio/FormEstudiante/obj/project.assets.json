@@ -65,23 +65,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Sergio PC\\.nuget\\packages\\": {},
+    "C:\\Users\\PC1\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sergio PC\\Desktop\\poo\\ejercicios_CFP2024\\Aguirre.Sergio\\FormEstudiante\\FormEstudiante.csproj",
+      "projectUniqueName": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\FormEstudiante\\FormEstudiante.csproj",
       "projectName": "FormEstudiante",
-      "projectPath": "C:\\Users\\Sergio PC\\Desktop\\poo\\ejercicios_CFP2024\\Aguirre.Sergio\\FormEstudiante\\FormEstudiante.csproj",
-      "packagesPath": "C:\\Users\\Sergio PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sergio PC\\Desktop\\poo\\ejercicios_CFP2024\\Aguirre.Sergio\\FormEstudiante\\obj\\",
+      "projectPath": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\FormEstudiante\\FormEstudiante.csproj",
+      "packagesPath": "C:\\Users\\PC1\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\FormEstudiante\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Sergio PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PC1\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -96,14 +96,14 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\Sergio PC\\Desktop\\poo\\ejercicios_CFP2024\\Aguirre.Sergio\\Estudiantes\\Estudiantes.csproj": {
-              "projectPath": "C:\\Users\\Sergio PC\\Desktop\\poo\\ejercicios_CFP2024\\Aguirre.Sergio\\Estudiantes\\Estudiantes.csproj"
+            "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\Estudiantes\\Estudiantes.csproj": {
+              "projectPath": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\Estudiantes\\Estudiantes.csproj"
             },
-            "C:\\Users\\Sergio PC\\Desktop\\poo\\ejercicios_CFP2024\\Aguirre.Sergio\\LibreriaDeEstudiantes\\LibreriaDeEstudiantes.csproj": {
-              "projectPath": "C:\\Users\\Sergio PC\\Desktop\\poo\\ejercicios_CFP2024\\Aguirre.Sergio\\LibreriaDeEstudiantes\\LibreriaDeEstudiantes.csproj"
+            "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\LibreriaDeEstudiantes\\LibreriaDeEstudiantes.csproj": {
+              "projectPath": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\LibreriaDeEstudiantes\\LibreriaDeEstudiantes.csproj"
             },
-            "C:\\Users\\Sergio PC\\Desktop\\poo\\ejercicios_CFP2024\\Aguirre.Sergio\\MisClases\\MisClases.csproj": {
-              "projectPath": "C:\\Users\\Sergio PC\\Desktop\\poo\\ejercicios_CFP2024\\Aguirre.Sergio\\MisClases\\MisClases.csproj"
+            "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\MisClases\\MisClases.csproj": {
+              "projectPath": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_CFP2024\\Aguirre.Sergio\\MisClases\\MisClases.csproj"
             }
           }
         }
@@ -112,6 +112,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -136,7 +141,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

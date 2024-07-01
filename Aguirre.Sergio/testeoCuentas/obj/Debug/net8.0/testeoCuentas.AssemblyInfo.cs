@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("testeoCuentas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afdd6e6026d2b2f9fe4b734d9ac6c884f1be087e")]
 [assembly: System.Reflection.AssemblyProductAttribute("testeoCuentas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("testeoCuentas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
