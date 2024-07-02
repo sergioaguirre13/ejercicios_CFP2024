@@ -22,3 +22,15 @@ C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeFunciones
 C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeFunciones\obj\Debug\net8.0\refint\LibreriaDeFunciones.dll
 C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeFunciones\obj\Debug\net8.0\LibreriaDeFunciones.pdb
 C:\Users\Sergio PC\Desktop\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeFunciones\obj\Debug\net8.0\ref\LibreriaDeFunciones.dll
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeFunciones\bin\Debug\net8.0\LibreriaDeFunciones.deps.json
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeFunciones\bin\Debug\net8.0\LibreriaDeFunciones.dll
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeFunciones\bin\Debug\net8.0\LibreriaDeFunciones.pdb
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeFunciones\obj\Debug\net8.0\LibreriaDeFunciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeFunciones\obj\Debug\net8.0\LibreriaDeFunciones.AssemblyInfoInputs.cache
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeFunciones\obj\Debug\net8.0\LibreriaDeFunciones.AssemblyInfo.cs
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeFunciones\obj\Debug\net8.0\LibreriaDeFunciones.csproj.CoreCompileInputs.cache
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeFunciones\obj\Debug\net8.0\LibreriaDeFunciones.sourcelink.json
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeFunciones\obj\Debug\net8.0\LibreriaDeFunciones.dll
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeFunciones\obj\Debug\net8.0\refint\LibreriaDeFunciones.dll
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeFunciones\obj\Debug\net8.0\LibreriaDeFunciones.pdb
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_CFP2024\Aguirre.Sergio\LibreriaDeFunciones\obj\Debug\net8.0\ref\LibreriaDeFunciones.dll
